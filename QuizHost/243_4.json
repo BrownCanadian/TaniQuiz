@@ -1,0 +1,470 @@
+{
+  "title": "PSYC Exam 2 Advanced Application Quiz (Midterm-Level, Conceptual)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+    {
+      "prompt": "An 11-month-old shows rapid improvement in reaching accuracy after weeks of unsuccessful attempts. Which explanation BEST fits dynamic systems theory?",
+      "options": [
+        "A single motor reflex matured",
+        "A new gene was activated",
+        "Multiple interacting systems reached a functional threshold",
+        "Synaptic pruning eliminated all errors"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "If synaptic pruning did NOT occur during development, which outcome would be most likely?",
+      "options": [
+        "Faster neural efficiency",
+        "Greater neural specialization",
+        "Reduced neural efficiency due to excess connections",
+        "Improved executive functioning"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "An infant raised in a visually deprived environment later struggles with face discrimination. This finding BEST supports:",
+      "options": [
+        "Strict genetic determinism",
+        "Sensitive periods in perceptual development",
+        "Universal developmental invariance",
+        "Purely cultural learning"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If an infant repeatedly looks longer at an impossible physical event, researchers infer:",
+      "options": [
+        "The infant prefers novelty only",
+        "The infant lacks object permanence",
+        "The infant formed an expectation that was violated",
+        "The infant is overstimulated"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "A toddler calls all four-legged animals 'dog' but later restricts the label correctly. This pattern reflects:",
+      "options": [
+        "Underextension followed by accommodation",
+        "Overextension followed by accommodation",
+        "Assimilation only",
+        "Telegraphic regression"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If early motor training accelerates exploration, which downstream outcome is most plausible?",
+      "options": [
+        "Reduced perceptual learning",
+        "Earlier language mapping opportunities",
+        "Delayed social engagement",
+        "Weaker object permanence"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "An infant raised bilingually initially shows slower vocabulary in each language but equal total vocabulary across both. This suggests:",
+      "options": [
+        "Cognitive overload",
+        "Distributed lexical mapping across systems",
+        "Delayed phonological pruning",
+        "Attachment insecurity"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A child who shows high reactivity but develops strong self-regulation over time BEST fits which temperament model?",
+      "options": [
+        "Chess & Thomas rigid category model",
+        "Rothbart's regulatory model",
+        "Kagan's inhibition model exclusively",
+        "Freudian drive theory"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If caregiving is highly sensitive during infancy but becomes inconsistent in toddlerhood, attachment security is MOST likely to:",
+      "options": [
+        "Remain entirely unaffected",
+        "Reflect the earliest period only",
+        "Be influenced by later caregiving patterns",
+        "Become avoidant automatically"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "An infant who becomes distressed at separation but resists comfort upon reunion likely shows:",
+      "options": [
+        "Secure attachment",
+        "Avoidant attachment",
+        "Resistant attachment",
+        "Disorganized attachment"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "Perceptual narrowing would predict that by 12 months infants:",
+      "options": [
+        "Discriminate all phonemes equally well",
+        "Are better at discriminating native phonemes than non-native ones",
+        "Lose all phoneme discrimination",
+        "Show no change from birth"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which finding would most strongly challenge strict stage theories of cognition?",
+      "options": [
+        "Infants show partial understanding before full success",
+        "Children fail conservation tasks",
+        "Toddlers show A-not-B errors",
+        "Executive control improves with age"
+      ],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "If the prefrontal cortex develops late, which ability should mature latest?",
+      "options": [
+        "Basic visual acuity",
+        "Reflex integration",
+        "Executive inhibition and planning",
+        "Habituation"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "A parent who matches structured routines to a behaviorally inhibited child demonstrates:",
+      "options": [
+        "Behavioral control",
+        "Goodness-of-fit",
+        "Permissiveness",
+        "Operant reinforcement"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which scenario best demonstrates accommodation rather than assimilation?",
+      "options": [
+        "Calling all men 'dad'",
+        "Changing belief after contradictory evidence",
+        "Repeating the same schema unchanged",
+        "Ignoring disconfirming information"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If synaptic overproduction is evolutionarily adaptive, its main function is likely to:",
+      "options": [
+        "Ensure maximal genetic expression",
+        "Allow experience-dependent specialization",
+        "Prevent pruning",
+        "Accelerate myelination"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A child who points to share interest rather than request reflects:",
+      "options": [
+        "Imperative communication",
+        "Declarative communication",
+        "Instrumental conditioning",
+        "Delayed joint attention"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which best illustrates intermodal perception?",
+      "options": [
+        "Recognizing mother’s voice and face as belonging together",
+        "Following a moving object visually",
+        "Grasp reflex activation",
+        "Babbling repetition"
+      ],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "An infant habituates quickly to a stimulus. Researchers infer:",
+      "options": [
+        "Poor memory",
+        "Efficient information processing",
+        "Attachment insecurity",
+        "Reduced neural pruning"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which child would MOST likely show later self-regulation difficulties?",
+      "options": [
+        "Low reactivity + sensitive caregiving",
+        "High reactivity + consistent structure",
+        "High reactivity + chaotic caregiving",
+        "Moderate reactivity + responsive parenting"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "Which outcome would most directly support core knowledge theory?",
+      "options": [
+        "Infants learn entirely through reinforcement",
+        "Infants show early numerical expectation violations",
+        "Language determines thought fully",
+        "All knowledge emerges after age 2"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which example reflects plasticity?",
+      "options": [
+        "Reflex disappearance",
+        "Brain reorganization after early injury",
+        "Fixed temperament pattern",
+        "Genetic mutation"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If an infant raised without language exposure never fully acquires grammar, this most strongly supports:",
+      "options": [
+        "Critical/sensitive period constraints",
+        "Pure behaviorism",
+        "Synaptic overproduction",
+        "Reflex integration"
+      ],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Which BEST explains why walking often triggers vocabulary growth?",
+      "options": [
+        "Motor genes activate language genes",
+        "New spatial exploration expands labeling opportunities",
+        "Pruning stops temporarily",
+        "Babbling increases"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Secure attachment predicts later:",
+      "options": [
+        "Reduced exploration",
+        "Better peer competence",
+        "Higher avoidance",
+        "Greater anxiety"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which scenario best reflects mesosystem interaction?",
+      "options": [
+        "Mother’s workplace stress affects child",
+        "Parent–teacher communication improves adjustment",
+        "Societal gender norms shift",
+        "Genetic mutation alters temperament"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A researcher repeatedly tests infants daily for two weeks to capture strategy shifts. This design captures:",
+      "options": [
+        "Cross-sectional trends",
+        "Microgenetic change",
+        "Cohort effects",
+        "Macrogenetic shifts"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which would most likely weaken attachment security?",
+      "options": [
+        "Predictable soothing",
+        "Emotionally unavailable responses",
+        "Encouraged exploration",
+        "Consistent routines"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which finding most strongly supports bidirectional development?",
+      "options": [
+        "Parents shape children only",
+        "Genes determine behavior only",
+        "Infant temperament alters parenting behavior",
+        "Culture overrides biology"
+      ],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "An infant stops responding to a repeated stimulus but reacts to a new one. This demonstrates:",
+      "options": [
+        "Accommodation",
+        "Habituation and dishabituation",
+        "Reflex integration",
+        "Secure base behavior"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If early deprivation reduces prefrontal development, which function suffers most?",
+      "options": [
+        "Color perception",
+        "Executive inhibition",
+        "Startle reflex",
+        "Auditory localization"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which behavior most clearly reflects emerging joint attention?",
+      "options": [
+        "Self-soothing",
+        "Following another’s gaze",
+        "Grasp reflex",
+        "Babbling alone"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If a child shows avoidance upon reunion but minimal distress at separation, classification is:",
+      "options": [
+        "Secure",
+        "Avoidant",
+        "Resistant",
+        "Disorganized"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which BEST represents qualitative change?",
+      "options": [
+        "Gradual vocabulary increase",
+        "Transition from crawling to walking",
+        "Height increase",
+        "Faster reaction time"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which outcome is MOST consistent with plasticity?",
+      "options": [
+        "Permanent reflex patterns",
+        "Recovery after early intervention",
+        "Fixed genetic blueprint",
+        "Universal invariance"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "An infant who fails the A-not-B task but succeeds in looking-time paradigms suggests:",
+      "options": [
+        "Motor demands mask cognitive understanding",
+        "No object permanence exists",
+        "Stage theory fully accurate",
+        "No inhibition needed"
+      ],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Which caregiving style increases disorganized attachment risk?",
+      "options": [
+        "Consistent responsiveness",
+        "Emotionally frightening behavior",
+        "Structured routines",
+        "Encouraged autonomy"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If language comprehension exceeds production in infancy, this implies:",
+      "options": [
+        "Cognitive deficit",
+        "Production constraints differ from understanding",
+        "No semantic mapping",
+        "Lack of phonology"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which finding BEST challenges a purely maturation-based theory?",
+      "options": [
+        "Identical twins differ in behavior with different parenting",
+        "Reflex disappearance",
+        "Universal babbling timeline",
+        "Height growth"
+      ],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Which is strongest evidence for sensitive periods?",
+      "options": [
+        "Gradual improvement over lifespan",
+        "Irreversible deficits after early deprivation",
+        "Uniform development across contexts",
+        "Stable temperament"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If early motor delay limits exploration, which domain may be indirectly affected?",
+      "options": [
+        "Color perception only",
+        "Language and social learning",
+        "Reflex disappearance",
+        "Genetic expression"
+      ],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which scenario reflects chronosystem influence?",
+      "options": [
+        "Parent–teacher communication",
+        "Cultural shift due to pandemic",
+        "Sibling conflict",
+        "Attachment classification"
+      ],
+      "answerIndex": 1
+    }
+
+  ]
+}
