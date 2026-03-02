@@ -1,0 +1,309 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz</title>
+  <link rel="stylesheet" href="styles1.css" />
+</head>
+<body>
+  <div class="container">
+    <section class="card" id="app">
+      <div class="topbar">
+        <div>
+          <div class="qtitle" id="quizTitle">Loading…</div>
+          <div class="small" id="quizSub"></div>
+        </div>
+        <div class="badge" id="progress">—</div>
+      </div>
+
+      <div id="screen"></div>
+
+      <div class="footerbar" id="controls" style="display:none;">
+        <a class="btn" href="index.html">← Back</a>
+        <div style="display:flex; gap:10px; align-items:center;">
+          <button class="btn" id="prevBtn">Previous</button>
+          <button class="btn primary" id="nextBtn">Next</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    // ------- helpers -------
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    function getQueryParam(name) {
+      return new URLSearchParams(window.location.search).get(name);
+    }
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, s => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"
+      }[s]));
+    }
+
+    // ------- state -------
+    const quizTitleEl = document.getElementById("quizTitle");
+    const quizSubEl = document.getElementById("quizSub");
+    const progressEl = document.getElementById("progress");
+    const screenEl = document.getElementById("screen");
+    const controlsEl = document.getElementById("controls");
+    const prevBtn = document.getElementById("prevBtn");
+    const nextBtn = document.getElementById("nextBtn");
+
+    let quiz = null;
+    let index = 0;
+    let answers = []; // chosen option index per question (in displayed order)
+    let questionOrder = []; // indices into original quiz.questions
+
+    // For option shuffling, we store mapping per question:
+    // displayedOptionIndex -> originalOptionIndex
+    let optionMaps = []; // array of arrays
+
+    function setTitle(t) {
+      document.title = t ? `${t} — Quiz` : "Quiz";
+      quizTitleEl.textContent = t || "Quiz";
+    }
+
+    function updateProgress() {
+      if (!quiz) return;
+      progressEl.textContent = `Q ${index + 1} / ${quiz.questions.length}`;
+      const answered = answers.filter(a => a !== null && a !== undefined).length;
+      quizSubEl.textContent = `${answered} answered • Share: ${location.pathname.split("/").pop()}?file=${encodeURIComponent(currentFile)}`;
+    }
+
+    function canGoNext() {
+      return index < quiz.questions.length - 1;
+    }
+    function canGoPrev() {
+      return index > 0;
+    }
+
+    function renderQuestion() {
+      const qOrigIndex = questionOrder[index];
+      const q = quiz.questions[qOrigIndex];
+      const map = optionMaps[index]; // displayed->original
+      const chosen = answers[index];
+
+      const optsHtml = q.options.map((optText, originalOptIndex) => ({ optText, originalOptIndex }));
+      // We render by displayed order; map tells us which original index is at displayed position.
+      const displayed = map.map(originalIdx => ({
+        text: q.options[originalIdx],
+        originalIdx
+      }));
+
+      screenEl.innerHTML = `
+        <div class="question">
+          <p class="prompt">${escapeHtml(q.prompt)}</p>
+          <div class="options">
+            ${displayed.map((o, displayIdx) => {
+              const selected = chosen === displayIdx ? "selected" : "";
+              return `
+                <button class="opt ${selected}" data-opt="${displayIdx}">
+                  ${escapeHtml(o.text)}
+                </button>
+              `;
+            }).join("")}
+          </div>
+        </div>
+      `;
+
+      screenEl.querySelectorAll("button.opt").forEach(btn => {
+        btn.addEventListener("click", () => {
+          const pick = Number(btn.getAttribute("data-opt"));
+          answers[index] = pick;
+          renderQuestion(); // re-render to show selected state
+          updateControls();
+        });
+      });
+
+      updateProgress();
+      updateControls();
+    }
+
+    function gradeQuiz() {
+      let correct = 0;
+      const total = quiz.questions.length;
+
+      const reviewRows = [];
+
+      for (let displayQ = 0; displayQ < total; displayQ++) {
+        const qOrigIndex = questionOrder[displayQ];
+        const q = quiz.questions[qOrigIndex];
+
+        const pickedDisplayIdx = answers[displayQ];
+        const map = optionMaps[displayQ]; // displayed->original
+
+        const pickedOriginalIdx = (pickedDisplayIdx === null || pickedDisplayIdx === undefined)
+          ? null
+          : map[pickedDisplayIdx];
+
+        const isCorrect = pickedOriginalIdx === q.answerIndex;
+        if (isCorrect) correct++;
+
+        const correctText = q.options[q.answerIndex];
+        const pickedText = (pickedOriginalIdx === null) ? "(no answer)" : q.options[pickedOriginalIdx];
+
+        reviewRows.push(`
+          <div class="row">
+            <div class="meta">
+              <div><b>Q${displayQ + 1}</b></div>
+              <div class="tag ${isCorrect ? "ok" : "no"}">${isCorrect ? "Correct" : "Incorrect"}</div>
+            </div>
+            <div class="small">${escapeHtml(q.prompt)}</div>
+            <div style="margin-top:8px;">
+              <div class="small"><b>Your answer:</b> ${escapeHtml(pickedText)}</div>
+              <div class="small"><b>Correct answer:</b> ${escapeHtml(correctText)}</div>
+            </div>
+          </div>
+        `);
+      }
+
+      const percent = Math.round((correct / total) * 100);
+
+      screenEl.innerHTML = `
+        <div class="result">
+          <h2 style="margin:0 0 10px;">Result</h2>
+
+          <div class="kpi">
+            <div class="box">
+              <div class="label">Score</div>
+              <div class="value">${correct} / ${total}</div>
+            </div>
+            <div class="box">
+              <div class="label">Percent</div>
+              <div class="value">${percent}%</div>
+            </div>
+            <div class="box">
+              <div class="label">Quiz</div>
+              <div class="value" style="font-size:16px; font-weight:700;">${escapeHtml(quiz.title || "Quiz")}</div>
+            </div>
+          </div>
+
+          <div class="btnrow" style="margin-top:14px;">
+            <button class="btn good" id="restartBtn">Restart</button>
+            <button class="btn" id="copyBtn">Copy Share Link</button>
+            <a class="btn" href="index.html">Back to list</a>
+          </div>
+
+          <h3 style="margin:16px 0 10px;">Review</h3>
+          <div class="review">
+            ${reviewRows.join("")}
+          </div>
+        </div>
+      `;
+
+      controlsEl.style.display = "none";
+
+      document.getElementById("restartBtn").addEventListener("click", () => {
+        startQuiz(); // reshuffle if enabled
+      });
+
+      document.getElementById("copyBtn").addEventListener("click", async () => {
+        const url = new URL(`quiz.html?file=${encodeURIComponent(currentFile)}`, window.location.href).toString();
+        await navigator.clipboard.writeText(url);
+        const btn = document.getElementById("copyBtn");
+        btn.textContent = "Copied!";
+        setTimeout(() => (btn.textContent = "Copy Share Link"), 900);
+      });
+    }
+
+    function updateControls() {
+      prevBtn.disabled = !canGoPrev();
+      // Next button becomes "Finish" on last question
+      nextBtn.textContent = (index === quiz.questions.length - 1) ? "Finish" : "Next";
+
+      // Require an answer to move forward (optional UX)
+      const answered = answers[index] !== null && answers[index] !== undefined;
+      nextBtn.disabled = !answered;
+
+      updateProgress();
+    }
+
+    prevBtn.addEventListener("click", () => {
+      if (!canGoPrev()) return;
+      index--;
+      renderQuestion();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      const isLast = index === quiz.questions.length - 1;
+      if (isLast) {
+        gradeQuiz();
+      } else if (canGoNext()) {
+        index++;
+        renderQuestion();
+      }
+    });
+
+    // ------- loading -------
+    let currentFile = getQueryParam("file") || "quiz-sample.json";
+
+    async function loadQuiz(file) {
+      const res = await fetch(file, { cache: "no-store" });
+      if (!res.ok) throw new Error(`Could not load ${file} (${res.status})`);
+      return await res.json();
+    }
+
+    function buildOrderAndMaps() {
+      const n = quiz.questions.length;
+
+      // question order (indices into original questions array)
+      questionOrder = Array.from({ length: n }, (_, i) => i);
+      if (quiz.shuffleQuestions) shuffle(questionOrder);
+
+      // option maps per displayed question index
+      optionMaps = [];
+      for (let displayQ = 0; displayQ < n; displayQ++) {
+        const origQ = quiz.questions[questionOrder[displayQ]];
+        const m = Array.from({ length: origQ.options.length }, (_, i) => i);
+        if (quiz.shuffleOptions) shuffle(m);
+        optionMaps.push(m);
+      }
+    }
+
+    function startQuiz() {
+      index = 0;
+      answers = Array.from({ length: quiz.questions.length }, () => null);
+      buildOrderAndMaps();
+      controlsEl.style.display = "flex";
+      renderQuestion();
+    }
+
+    (async function init() {
+      try {
+        quizTitleEl.textContent = "Loading…";
+        quizSubEl.textContent = "";
+        progressEl.textContent = "—";
+
+        quiz = await loadQuiz(currentFile);
+        setTitle(quiz.title || "Quiz");
+        startQuiz();
+      } catch (err) {
+        setTitle("Error");
+        screenEl.innerHTML = `
+          <div class="card-inner">
+            <h2 style="margin-top:0;">Couldn’t load quiz</h2>
+            <div class="small">
+              File: <b>${escapeHtml(currentFile)}</b><br/>
+              If you opened this as <b>file://</b>, fetch will be blocked. Use GitHub Pages/Netlify or a local server.
+            </div>
+            <div class="btnrow" style="margin-top:14px;">
+              <a class="btn" href="index.html">Back</a>
+            </div>
+          </div>
+        `;
+        controlsEl.style.display = "none";
+        console.error(err);
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz Hub</title>
+  <link rel="stylesheet" href="styles1.css" />
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <div>
+        <h1>Tanishka Practice Site</h1>
+        <p class="sub">Choose a quiz. You can share links like <span class="badge">quiz.html?file=quiz-sample.json</span></p>
+      </div>
+    </header>
+
+    <section class="card">
+      <div class="topbar">
+        <div class="qtitle">Available Quizzes</div>
+        <div class="badge" id="status">Loading…</div>
+      </div>
+
+      <div class="card-inner">
+        <div id="list" class="list"></div>
+
+        <hr class="sep" />
+
+        <div class="small">
+          Tip: Start studying 4-5 days before a midterm or else risk to <b>NOT FEEL PREPARED</b> the night before.
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    const statusEl = document.getElementById("status");
+    const listEl = document.getElementById("list");
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"']/g, s => ({
+        "&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#039;"
+      }[s]));
+    }
+
+    async function loadManifest() {
+      try {
+        const res = await fetch("quizzes.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(`Failed to load quizzes.json (${res.status})`);
+        const data = await res.json();
+        const quizzes = data.quizzes || [];
+        statusEl.textContent = `${quizzes.length} quiz${quizzes.length === 1 ? "" : "zes"}`;
+
+        if (quizzes.length === 0) {
+          listEl.innerHTML = `<div class="small">No quizzes yet. Add quiz JSON files and list them in quizzes.json.</div>`;
+          return;
+        }
+
+        listEl.innerHTML = quizzes.map(q => {
+          const title = escapeHtml(q.title || q.file);
+          const desc = escapeHtml(q.description || "");
+          const file = encodeURIComponent(q.file);
+          const openLink = `quiz.html?file=${file}`;
+          return `
+            <div class="item">
+              <h3>${title}</h3>
+              <p>${desc}</p>
+              <div class="btnrow">
+                <a class="btn primary" href="${openLink}">Start</a>
+                <button class="btn" data-share="${openLink}">Copy Share Link</button>
+              </div>
+            </div>
+          `;
+        }).join("");
+
+        listEl.querySelectorAll("button[data-share]").forEach(btn => {
+          btn.addEventListener("click", async () => {
+            const rel = btn.getAttribute("data-share");
+            const url = new URL(rel, window.location.href).toString();
+            await navigator.clipboard.writeText(url);
+            btn.textContent = "Copied!";
+            setTimeout(() => (btn.textContent = "Copy Share Link"), 900);
+          });
+        });
+
+      } catch (err) {
+        statusEl.textContent = "Error";
+        listEl.innerHTML = `
+          <div class="small">
+            Couldn’t load <b>quizzes.json</b>.<br/>
+            If you opened this file directly (file://), fetch will be blocked. Use a static host (GitHub Pages/Netlify) or a local server.
+          </div>`;
+        console.error(err);
+      }
+    }
+
+    loadManifest();
+  </script>
+</body>
+</html>

@@ -1,0 +1,132 @@
+{
+  "title": "243 Practiece Quiz 1 - 25 questions",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which temperament theory focuses primarily on behavioral inhibition?",
+      "options": ["Chess & Thomas", "Rothbart & Bates", "Kagan", "Bowlby"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What does the Still-Face paradigm demonstrate?",
+      "options": ["Infants prefer faces over objects", "Infants require social interaction", "Infants recognize themselves", "Infants imitate caregivers"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Bowlby’s theory, a secure base allows the child to:",
+      "options": ["Avoid strangers", "Control emotions", "Explore the environment safely", "Develop language faster"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What is synaptic pruning?",
+      "options": ["Growth of new neurons", "Strengthening all neural connections", "Elimination of unused neural connections", "Myelin formation"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which is an example of triadic interaction?",
+      "options": ["Infant gazing at caregiver", "Infant playing alone", "Infant and caregiver both looking at a toy", "Infant crying during separation"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What is the main function of reflexes in infancy?",
+      "options": ["Learning language", "Ensuring survival and adaptation", "Forming attachment", "Developing personality"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to Piaget, assimilation means:",
+      "options": ["Creating new schemes", "Changing the environment", "Interpreting new information using existing schemes", "Forgetting old knowledge"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which method measures looking time differences to study infant perception?",
+      "options": ["Strange Situation", "Visual preference method", "EEG recording", "Conditioning"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Perceptual narrowing refers to:",
+      "options": ["Loss of visual acuity", "Increasing sensitivity to all stimuli", "Becoming specialized for familiar stimuli", "Reduced brain growth"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which attachment style often shows confused or contradictory behaviour?",
+      "options": ["Secure", "Avoidant", "Resistant/Ambivalent", "Disorganized"],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "What is myelination?",
+      "options": ["Neuron death", "Coating of neural fibers to speed transmission", "Brain shrinkage", "Formation of synapses"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The goodness of fit model refers to:",
+      "options": ["Matching brain growth to age", "Matching parenting style to child temperament", "Matching diet to activity level", "Matching language to culture"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which best describes telegraphic speech?",
+      "options": ["One-word speech", "Long complex sentences", "Short sentences with only key words", "Random sounds"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Harlow’s monkey experiments showed attachment is mainly based on:",
+      "options": ["Feeding", "Warmth", "Contact comfort", "Visual stimulation"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What is object permanence?",
+      "options": ["Recognizing faces", "Knowing objects exist even when hidden", "Understanding emotions", "Identifying colours"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What is a morpheme?",
+      "options": ["Smallest unit of sound", "Smallest unit of meaning", "Sentence structure rule", "Grammar error"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which brain areas generally develop first?",
+      "options": ["Frontal cortex", "Sensory and motor areas", "Language centers", "Prefrontal cortex"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What does the core knowledge approach propose?",
+      "options": ["Learning is entirely environmental", "Infants have built-in knowledge systems", "Knowledge develops only through language", "Intelligence is fixed"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What does dynamic systems theory emphasize in motor development?",
+      "options": ["Reflex replacement only", "Brain maturation alone", "Interaction of multiple systems", "Genetic control only"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which temperament dimension reflects self-regulation of attention and behaviour?",
+      "options": ["Surgency", "Negative affectivity", "Effortful control", "Rhythmicity"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What is the Strange Situation used to assess?",
+      "options": ["Language ability", "Motor coordination", "Attachment patterns", "Intelligence"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What is lateralization?",
+      "options": ["Brain growth stopping", "Specialization of brain hemispheres", "Increase in neuron number", "Loss of reflexes"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which is a sign of developing self-awareness in the second year?",
+      "options": ["Babbling", "Crawling", "Self-conscious emotions", "Reflex responses"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "What happens when infants have untreated cataracts early in life?",
+      "options": ["No long-term effects", "Permanent perceptual deficits", "Faster visual development", "Improved depth perception"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which caregiving pattern is most associated with secure attachment?",
+      "options": ["Inconsistent caregiving", "Harsh discipline", "Sensitive and responsive caregiving", "Emotional neglect"],
+      "answerIndex": 2
+    }
+  ]
+}
