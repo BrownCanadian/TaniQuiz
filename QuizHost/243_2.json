@@ -1,0 +1,202 @@
+{
+  "title": "Exam 2 Developmental Psych Practice Test (Harder, 40 MCQs)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "A 10-month-old repeatedly drops a spoon from the high chair and watches the caregiver pick it up, then repeats the action with a grin. In Piaget’s sensorimotor substages, this is best described as:",
+      "options": ["Reflexive schemes (Substage 1)", "Primary circular reactions (Substage 2)", "Secondary circular reactions (Substage 3)", "Coordination of secondary circular reactions (Substage 4)"],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "An infant shows decreased looking time to the same stimulus after repeated presentations, and then increased looking time to a new stimulus. This method is called:",
+      "options": ["Visual preference method", "Habituation/dishabituation method", "Strange Situation procedure", "Dynamic systems observation"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best captures the neuroconstructivist view of brain development?",
+      "options": ["Brain development is fixed and unfolds the same way regardless of experience", "Experience and biology continuously interact to shape developing neural systems", "Only genetics determines cognitive outcomes", "Only nutrition determines cognitive outcomes"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A caregiver remains warm but becomes suddenly expressionless and unresponsive during an interaction task. The infant quickly shows distress and attempts to re-engage. This describes:",
+      "options": ["The Strange Situation", "The Still-Face paradigm", "The drawbridge task", "The visual preference method"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pattern would you MOST expect in the Strange Situation for avoidant attachment?",
+      "options": ["High distress at separation; easily soothed at reunion", "Little overt distress; avoids or ignores caregiver at reunion", "High distress; seeks contact but resists soothing", "Freezing, disoriented, or contradictory behaviors especially at reunion"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A parent says, “Yes, that’s a doggie! The doggie is running!” after a toddler says “dog run.” This is best described as:",
+      "options": ["Perceptual narrowing", "Recast and expansion", "Telegraphic speech", "Imperative pointing"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which is the BEST example of declarative pointing?",
+      "options": ["Pointing to a cookie to get it", "Pointing to a toy to request help opening it", "Pointing at an airplane to share interest with a caregiver", "Pointing at a door to leave the room"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In Chess & Thomas’s framework, the temperament profile most associated with irregular routines, intense reactions, and negative mood is:",
+      "options": ["Easy", "Difficult", "Slow-to-warm-up", "Effortful control"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A key prediction from dynamic systems theory about learning to walk is that walking emerges from:",
+      "options": ["A single brain maturation milestone", "A reflex that simply disappears", "The interaction of multiple changing components (body, balance, motivation, environment)", "A skill that directly transfers from crawling with no reorganization"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which pairing is MOST consistent with the typical developmental sequence of neural maturation?",
+      "options": ["Prefrontal cortex develops before primary sensory cortex", "Primary sensory/motor areas develop earlier than prefrontal cortex", "Language areas fully myelinate before sensory areas", "All areas develop at the same rate (no sequence)"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Synaptic pruning is best described as:",
+      "options": ["The formation of new synapses everywhere equally", "The elimination of connections that are rarely used, influenced by experience", "The coating of axons with myelin", "A process that only occurs prenatally"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Myelination primarily supports:",
+      "options": ["Faster and more efficient neural communication", "Elimination of unused neurons", "Decreased responsiveness to stimuli", "Loss of sensory abilities"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Lateralization refers to:",
+      "options": ["Specialization of the two cerebral hemispheres for different functions", "The elimination of synapses in early childhood", "The infant’s preference for one caregiver over another", "The shift from dyadic to triadic interaction"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which statement BEST reflects Kagan’s temperament approach?",
+      "options": ["Temperament is mainly the 9 dimensions like rhythmicity and intensity", "Temperament is reactivity plus effortful control across multiple dimensions", "Temperament centers on inhibited vs uninhibited responses to novelty", "Temperament is defined as attachment security"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Rothbart & Bates emphasize which broad temperament dimensions?",
+      "options": ["Easy, difficult, slow-to-warm-up", "Inhibited, uninhibited", "Surgency/extraversion, negative affectivity, effortful control", "Secure, avoidant, resistant, disorganized"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The goodness-of-fit model predicts the best outcomes when:",
+      "options": ["Parenting is identical for all children", "Parenting style matches the child’s temperament and supports regulation", "Children’s temperament is ignored to promote resilience", "Caregivers avoid structure to maximize exploration"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Temperament-sensitive parenting for a slow-to-warm-up child would MOST likely include:",
+      "options": ["Sudden exposure to large groups to 'toughen up'", "Gradual introductions to new situations with patient support", "Punishing withdrawal behaviors", "Removing all new experiences"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which best indicates a developing sense of self in the second year (especially the second half)?",
+      "options": ["Rooting reflex", "Babbling", "Self-conscious emotions and 'me/mine' language", "Depth perception on a visual cliff"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The Strange Situation is primarily designed to assess:",
+      "options": ["General intelligence", "Attachment quality via responses to separation and reunion", "Moral development", "Language pragmatics"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which caregiving pattern is MOST associated with avoidant attachment?",
+      "options": ["Consistently sensitive and responsive caregiving", "Inconsistent responsiveness", "Rejecting or emotionally unavailable caregiving", "Frightening or abusive caregiving"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which caregiving pattern is MOST associated with resistant (ambivalent) attachment?",
+      "options": ["Consistently sensitive caregiving", "Inconsistent caregiving", "Rejecting caregiving", "Predictable routines with calm responses"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Disorganized attachment is MOST strongly associated with caregiving that is:",
+      "options": ["Warm but busy", "Inconsistent but gentle", "Frightening, chaotic, or abusive", "Highly structured and predictable"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Bowlby’s internal working model refers to:",
+      "options": ["An infant’s reflex patterns for feeding", "Mental representations of relationships that guide expectations and behavior", "A set of speech sounds in phonology", "A motor program for walking"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which sequence best matches Bowlby’s four phases of attachment development?",
+      "options": ["Clear-cut → Preattachment → Goal-corrected → Attachment-in-making", "Preattachment → Attachment-in-making → Clear-cut → Goal-corrected partnership", "Attachment-in-making → Preattachment → Clear-cut → Goal-corrected", "Goal-corrected → Clear-cut → Attachment-in-making → Preattachment"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A hallmark of clear-cut attachment (around later infancy) is:",
+      "options": ["No preference for familiar people", "Separation anxiety and active seeking of the caregiver", "Only reflexive responding to caregivers", "Full understanding of caregiver goals and plans"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which is the BEST example of triadic interaction?",
+      "options": ["Infant smiles at caregiver", "Infant cries when hungry", "Infant and caregiver coordinate attention toward a toy while sharing affect", "Infant sucks thumb alone"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Harlow’s studies with rhesus monkeys most strongly supported the idea that attachment is driven by:",
+      "options": ["Food availability", "Contact comfort", "Language exposure", "Strict schedules"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Intermodal perception is best defined as:",
+      "options": ["Perceiving depth using binocular cues only", "Integrating information across senses (e.g., matching what is seen with what is heard/felt)", "Preferring faces over objects", "Tracking eye movements during reading"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A long-term concern with early untreated cataracts is that they can:",
+      "options": ["Have no lasting effects if fixed later", "Disrupt early visual input and lead to lasting perceptual deficits", "Improve depth perception by increasing reliance on touch", "Increase vocabulary size"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Perceptual narrowing in the first year is MOST likely to show up as:",
+      "options": ["Increasing ability to discriminate all phonemes/faces equally", "Decreasing specialization for familiar stimuli", "Greater specialization for familiar phonemes/faces and reduced discrimination of unfamiliar ones", "Loss of all auditory sensitivity"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which pairing best matches a language subsystem with what it studies?",
+      "options": ["Phonology—word meanings", "Semantics—sound patterns", "Syntax—sentence structure", "Pragmatics—morpheme formation rules"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A morpheme is:",
+      "options": ["The smallest unit of sound", "The smallest unit of meaning", "A gesture used in joint attention", "A type of attachment pattern"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Telegraphic speech is characterized by:",
+      "options": ["Mostly function words (e.g., the, is, at)", "Long grammatically complete sentences", "Short utterances with key content words, missing many grammatical markers", "Only babbling sounds"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Child-directed speech typically includes:",
+      "options": ["Lower pitch and faster rate", "High pitch, exaggerated intonation, simpler structures", "No repetition and complex vocabulary", "Only adult-like grammar"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The ‘problem of reference’ in word learning refers to the idea that:",
+      "options": ["Children cannot hear phonemes", "A new word could refer to many possible things in the environment", "Children cannot imitate sounds", "Children only learn nouns"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Piaget’s theory, a scheme is best described as:",
+      "options": ["A hormone that regulates sleep", "An organized pattern of action or thought used to interpret experiences", "A method for measuring looking time", "A type of synaptic connection"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A major criticism of Piaget’s account of object permanence is that:",
+      "options": ["It claims infants have innate object knowledge at birth", "It may underestimate infants’ understanding because tasks require motor responses", "It ignores perception entirely", "It only applies to language development"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Baillargeon’s drawbridge (violation-of-expectation) findings most strongly suggest that:",
+      "options": ["Infants cannot represent hidden objects", "Infants may show some understanding of object continuity earlier than Piaget suggested", "Object permanence only appears after age 3", "Infants learn only through reinforcement"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Newborn imitation of facial gestures is considered remarkable because:",
+      "options": ["Newborns have fully developed language", "It suggests very early social responsiveness before much learning experience", "It requires walking ability", "It depends on object permanence"],
+      "answerIndex": 1
+    }
+  ]
+}
