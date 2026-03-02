@@ -1,0 +1,82 @@
+{
+  "title": "PSYC Exam 2 Quick Walk-To-Exam Review (Easy 15)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Cephalocaudal development means growth proceeds:",
+      "options": ["Center outward", "Head to toe", "Fingers to arms", "Randomly"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Proximodistal development means growth proceeds:",
+      "options": ["Head to toe", "Center outward to extremities", "Feet to head", "Hands to torso"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Synaptic pruning is:",
+      "options": ["Coating axons to speed signals", "Eliminating rarely used connections", "Creating new neurons", "Making both hemispheres identical"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Myelination mainly:",
+      "options": ["Slows neural signals", "Speeds neural signals", "Deletes synapses", "Stops brain growth"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Object permanence is understanding that:",
+      "options": ["Objects disappear when hidden", "Objects exist when out of sight", "Words have one meaning", "Caregivers are interchangeable"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Assimilation is:",
+      "options": ["Changing a scheme", "Using an existing scheme", "Forgetting a scheme", "Building grammar rules"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Accommodation is:",
+      "options": ["Using an existing scheme unchanged", "Modifying a scheme to fit new info", "Ignoring new info", "Repeating reflexes"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Perceptual narrowing means infants become:",
+      "options": ["Better at all discriminations equally", "Specialized for familiar stimuli", "Unable to perceive speech", "Worse at familiar faces"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Intermodal perception is the ability to:",
+      "options": ["See depth", "Combine information across senses", "Speak in sentences", "Walk independently"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The Still-Face paradigm shows infants react strongly to:",
+      "options": ["New toys", "Sudden loss of caregiver responsiveness", "Loud noises only", "Being fed"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Declarative pointing is pointing to:",
+      "options": ["Request something", "Share attention/interest", "Avoid interaction", "Show distress only"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Imperative pointing is pointing to:",
+      "options": ["Share interest", "Request something", "Label an object", "Show fear"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Harlow’s monkey studies showed attachment is mainly based on:",
+      "options": ["Feeding", "Contact comfort", "Punishment", "Language exposure"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the Strange Situation, secure attachment is most shown by:",
+      "options": ["Avoiding caregiver at reunion", "Being comforted at reunion and returning to play", "Freezing and confusion", "No preference for caregiver"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Goodness-of-fit means best outcomes happen when:",
+      "options": ["Parents use identical strategies for all kids", "Parenting matches the child’s temperament", "Temperament is ignored", "Children change temperament to fit parents"],
+      "answerIndex": 1
+    }
+  ]
+}
