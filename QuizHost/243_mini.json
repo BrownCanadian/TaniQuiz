@@ -1,0 +1,446 @@
+{
+  "title": "PSYC Exam 2 FULL MASTER EXAM (All Keywords Covered, Midterm-Level)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+    {
+      "prompt": "An infant who can control eye and neck movements but not coordinated leg movement is showing which developmental principle?",
+      "options": ["Proximodistal trend", "Cephalocaudal trend", "Neuroconstructivism", "Dynamic systems theory"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A toddler can move the arms but struggles with fine finger control. This best illustrates:",
+      "options": ["Cephalocaudal development", "Proximodistal development", "Sensitive period limitation", "Myelination delay"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If neural pruning were random rather than experience-dependent, what developmental outcome would be expected?",
+      "options": ["Highly specialized neural systems", "Efficient neural processing", "Poor adaptation to environmental demands", "Earlier executive functioning"],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "A researcher observes that sensory brain regions mature before planning regions. This reflects which neural developmental pattern?",
+      "options": ["Top-down cortical dominance", "Hierarchical back-to-front maturation", "Uniform cortical development", "Random neural specialization"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Myelination most directly supports which functional improvement?",
+      "options": ["Increased neuron production", "Faster neural signal conduction", "Reduced synaptic density", "Greater hemispheric symmetry"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A developmental scientist argues that brain structures become specialized because of repeated experience interacting with biological growth. This reflects:",
+      "options": ["Maturational theory", "Neuroconstructivist perspective", "Behaviorism", "Core knowledge theory"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "If an infant shows delayed visual cortex development due to lack of early visual input, this most strongly supports:",
+      "options": ["Genetic determinism", "Experience-dependent neural development", "Irreversible maturation", "Temperament theory"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which outcome best reflects lateralization?",
+      "options": ["Equal language processing across hemispheres", "Specialized language processing primarily in one hemisphere", "Reduced neural pruning", "Increased motor reflexes"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A physician advises against breastfeeding due to a metabolic disorder preventing milk sugar digestion. This reflects which principle?",
+      "options": ["Nutritional determinism", "Medical contraindication to breastfeeding", "Attachment disruption", "Sensitive period limitation"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Which finding most strongly supports health benefits of breastfeeding?",
+      "options": ["Earlier walking onset", "Lower infection rates in infancy", "Higher academic achievement universally", "Faster motor development"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "A newborn automatically turns toward a touch on the cheek. This behavior is best classified as:",
+      "options": ["Learned response", "Reflex", "Voluntary motor plan", "Temperament expression"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Primitive reflexes gradually become voluntary movements because:",
+      "options": ["They disappear randomly", "Cortical control increases over time", "They are replaced genetically", "They are inhibited by nutrition"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Neurological abnormalities are often first suspected when:",
+      "options": ["Reflexes integrate unusually slowly or quickly", "Language emerges early", "Motor milestones accelerate", "Babbling increases"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Dynamic systems theory would predict that walking begins when:",
+      "options": ["Leg muscles reach a fixed maturity", "Multiple physical and motivational systems align", "Reflexes disappear entirely", "Language comprehension emerges"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Why does crawling not automatically lead to walking?",
+      "options": ["Walking is genetically programmed separately", "Different balance and coordination demands require reorganization", "Crawling prevents upright posture", "Motor memory cannot transfer"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Infants given grasp-training tools explore objects more. This demonstrates:",
+      "options": ["Motor determinism", "Experience influences motor-perceptual development", "Reflex strengthening", "Genetic maturation"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "An infant looks longer at one stimulus than another. Researchers infer:",
+      "options": ["Emotional attachment", "Perceptual discrimination", "Motor preference", "Temperament trait"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Habituation is most useful for testing whether infants:",
+      "options": ["Recognize caregiver identity", "Detect stimulus differences", "Show secure attachment", "Have self-awareness"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Eye-tracking methods allow researchers to measure:",
+      "options": ["Reflex strength", "Precise visual attention patterns", "Attachment security", "Language comprehension"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Visual acuity development demonstrates that infants:",
+      "options": ["See clearly at birth", "Gradually refine visual resolution", "Lose sensitivity over time", "Depend only on touch"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Depth perception is demonstrated when infants:",
+      "options": ["Prefer faces", "Avoid perceived drop-offs", "Babble rhythmically", "Imitate gestures"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Matching a voice to a face demonstrates:",
+      "options": ["Habituation", "Intermodal perception", "Lateralization", "Accommodation"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Long-term visual deficits after early cataracts indicate:",
+      "options": ["Permanent neural immaturity", "Sensitive period for visual input", "Motor delay only", "Language dependence"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Infants lose ability to distinguish unfamiliar faces while improving recognition of familiar types. This reflects:",
+      "options": ["Perceptual narrowing", "Visual deprivation", "Assimilation", "Attachment formation"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Using an existing mental structure to interpret new experience is:",
+      "options": ["Accommodation", "Assimilation", "Schema decay", "Symbolic play"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Changing a mental structure due to new evidence is:",
+      "options": ["Assimilation", "Accommodation", "Habituation", "Imitation"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Sensorimotor cognition is primarily based on:",
+      "options": ["Abstract reasoning", "Direct sensory-motor interaction", "Language rules", "Social norms"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Searching for hidden objects reflects:",
+      "options": ["Object permanence", "Telegraphic speech", "Intermodal perception", "Temperament stability"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Looking-time evidence suggests infants may understand object permanence earlier because:",
+      "options": ["Motor responses limit search tasks", "Language is required", "Memory absent", "Vision undeveloped"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Core knowledge theory argues infants:",
+      "options": ["Are blank slates", "Have innate knowledge domains", "Learn only through reinforcement", "Depend on language first"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Newborn imitation of facial gestures is remarkable because:",
+      "options": ["Requires language", "Occurs before extensive learning experience", "Depends on object permanence", "Uses symbolic thought"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Evidence questioning newborn imitation importance includes:",
+      "options": ["Universal replication success", "Inconsistent replication findings", "No facial movements at birth", "Late imitation onset"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Language differs from general communication because it:",
+      "options": ["Is emotional only", "Uses rule-governed symbolic structure", "Is non-social", "Is reflexive"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Phonology primarily concerns:",
+      "options": ["Word meaning", "Sound system", "Sentence structure", "Social context"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Semantics primarily concerns:",
+      "options": ["Sound production", "Meaning", "Grammar rules", "Motor coordination"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Morphology concerns:",
+      "options": ["Word formation units", "Sentence order", "Conversation rules", "Perception"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Syntax concerns:",
+      "options": ["Word meaning", "Sentence structure", "Speech rhythm", "Motor planning"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Pragmatics concerns:",
+      "options": ["Sound discrimination", "Contextual language use", "Reflex control", "Neural pruning"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Phoneme perception narrows during infancy because:",
+      "options": ["Memory declines", "Experience tunes perception to native language", "Language stops developing", "Motor control weakens"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Morphemes differ from phonemes because they:",
+      "options": ["Represent sound only", "Represent meaning units", "Are gestures", "Are reflexes"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Behaviorist language theory emphasizes:",
+      "options": ["Innate grammar structures", "Reinforcement and imitation", "Social interaction only", "Cognitive constraints only"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Nativist language theory emphasizes:",
+      "options": ["Reinforcement only", "Innate language capacity", "Motor learning", "Attachment security"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Interactionist language theory emphasizes:",
+      "options": ["Biology only", "Social communication processes", "Reflexes", "Vision"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Rapid vocabulary growth phase is called:",
+      "options": ["Telegraphic phase", "Vocabulary spurt", "Babbling burst", "Semantic shift"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Telegraphic speech indicates children prioritize:",
+      "options": ["Grammar markers", "Core meaning words", "Sound imitation", "Gesture only"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Child-directed speech helps learning because it:",
+      "options": ["Simplifies processing and attention", "Removes grammar", "Reduces vocabulary exposure", "Eliminates social cues"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Recasts and expansions primarily help children by:",
+      "options": ["Punishing errors", "Modeling correct language structure", "Increasing memory load", "Reducing communication"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Problem of reference arises because:",
+      "options": ["Children lack hearing", "Multiple possible word meanings exist", "Parents speak incorrectly", "Memory absent"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Whole object assumption helps word learning by:",
+      "options": ["Mapping words to entire objects", "Mapping words to actions only", "Preventing learning", "Ignoring labels"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Mutual exclusivity helps word learning by:",
+      "options": ["Allowing multiple labels per object", "Assuming one label per object", "Preventing categorization", "Reducing vocabulary"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Constraints theories are limited because:",
+      "options": ["Children never use them", "They cannot explain all word learning contexts", "They are biologically impossible", "They only apply to adults"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Kagan’s temperament theory focuses on:",
+      "options": ["Emotional regulation", "Behavioral inhibition", "Parenting sensitivity", "Attachment classification"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Rothbart’s model emphasizes:",
+      "options": ["Reflex strength", "Self-regulation processes", "Motor milestones", "Language speed"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Goodness-of-fit predicts optimal outcomes when:",
+      "options": ["Environment matches temperament", "Temperament eliminated", "Parent controls behavior strictly", "Genetics dominate"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Mirror self-recognition demonstrates:",
+      "options": ["Attachment", "Self awareness", "Motor control", "Language production"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Self-conscious emotions require:",
+      "options": ["Reflexes", "Awareness of social evaluation", "Motor skill", "Vision"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Dyadic interaction involves:",
+      "options": ["Infant + caregiver", "Infant + object", "Caregiver + object", "Group interaction"],
+      "answerIndex": 0
+    },
+
+    {
+      "prompt": "Triadic interaction involves:",
+      "options": ["Two individuals only", "Shared attention with object", "Motor coordination", "Reflex response"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Still-face paradigm demonstrates infant sensitivity to:",
+      "options": ["Motor delay", "Social contingency disruption", "Vision loss", "Language absence"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Imperative pointing functions to:",
+      "options": ["Share interest", "Request something", "Avoid interaction", "Label objects"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Declarative pointing functions to:",
+      "options": ["Request object", "Share attention", "Express distress", "Avoid caregiver"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Harlow’s research demonstrated importance of:",
+      "options": ["Feeding schedules", "Contact comfort", "Language exposure", "Reflex strength"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Secure base behavior enables:",
+      "options": ["Avoidance of environment", "Exploration with safety", "Language acquisition", "Motor learning"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Internal working models guide:",
+      "options": ["Motor planning", "Relationship expectations", "Speech production", "Reflex integration"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Clear-cut attachment phase includes:",
+      "options": ["No caregiver preference", "Separation anxiety", "Abstract reasoning", "Language grammar"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Strange Situation primarily assesses:",
+      "options": ["Memory", "Attachment security", "Motor skill", "Temperament type"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Secure attachment infants typically:",
+      "options": ["Avoid caregiver", "Seek comfort then explore", "Resist soothing", "Freeze behavior"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Avoidant attachment infants typically:",
+      "options": ["Seek comfort strongly", "Ignore caregiver on reunion", "Show confusion", "Cling excessively"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Resistant attachment infants typically:",
+      "options": ["Easily soothed", "Angry and difficult to comfort", "Indifferent", "Calm exploration"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Disorganized attachment infants typically:",
+      "options": ["Predictable responses", "Contradictory or disoriented behavior", "Consistent avoidance", "Secure exploration"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Sensitive caregiving most strongly predicts:",
+      "options": ["Avoidant attachment", "Secure attachment", "Disorganized attachment", "Resistant attachment"],
+      "answerIndex": 1
+    },
+
+    {
+      "prompt": "Frightening caregiving most strongly predicts:",
+      "options": ["Secure", "Avoidant", "Disorganized", "Resistant"],
+      "answerIndex": 2
+    },
+
+    {
+      "prompt": "Secure attachment in infancy predicts later:",
+      "options": ["Higher aggression", "Better social competence", "Lower exploration", "Reduced cognition"],
+      "answerIndex": 1
+    }
+
+  ]
+}

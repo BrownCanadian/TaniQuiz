@@ -21,9 +21,9 @@
       "description": "Midterm Style All Topic Quiz."
     },
     {
-      "title": "243 Mini Quiz -  Washroom",
+      "title": "243 Not Mini Quiz -  Not Washroom",
       "file": "243_mini.json",
-      "description": "Midterm Style Short Quiz."
+      "description": "Midterm Style Not Short Quiz."
     },{
       "title": "243 Mini Quiz 2 - Washroom",
       "file": "243_mini_2.json",
