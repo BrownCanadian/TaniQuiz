@@ -1,0 +1,132 @@
+{
+  "title": "Exam 2 Practice Quiz (Midterm-Style Difficulty, 25 MCQs)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "A researcher wants to measure infants’ ability to discriminate between two similar speech sounds by tracking changes in looking time across repeated trials. Which method is MOST appropriate?",
+      "options": ["Strange Situation", "Habituation/dishabituation", "Clinical interview", "Naturalistic observation"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement BEST describes synaptic pruning?",
+      "options": ["A process where unused neural connections are eliminated, shaped by experience", "A process where axons are coated to speed neural signals", "A process where new neurons are produced throughout infancy at a constant rate", "A process where hemispheres become specialized for different functions"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Myelination is important in development primarily because it:",
+      "options": ["Creates new synapses between all neurons", "Increases the speed and efficiency of neural communication", "Eliminates neurons that are not used", "Produces lateralization of the hemispheres"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which developmental trend describes growth from the center of the body outward toward the fingers and toes?",
+      "options": ["Cephalocaudal", "Proximodistal", "Perceptual narrowing", "Lateralization"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A baby reaches for a toy, misses repeatedly, then gradually begins to coordinate the arm and hand movements to grasp it. This illustrates that reaching development is best understood as:",
+      "options": ["A fixed maturational sequence independent of experience", "An outcome of interacting systems that self-organize over time", "A reflex that simply persists into later life", "A skill that transfers automatically from crawling to walking"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A key claim of dynamic systems theory is that motor skills:",
+      "options": ["Emerge from interactions among multiple components (body, environment, goals)", "Are genetically programmed and appear once the brain reaches a set age", "Transfer directly from one skill to another with no reorganization", "Depend mostly on reflexes and their disappearance"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which best describes intermodal perception?",
+      "options": ["The ability to perceive depth using binocular cues", "The ability to integrate information across different senses (e.g., sight and sound)", "The ability to recognize oneself in a mirror", "The ability to imitate facial gestures"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "An infant is shown the same image repeatedly until looking time decreases, then shown a new image and looking time increases. The increase suggests:",
+      "options": ["Habituation", "Dishabituation", "Secure attachment", "Object permanence"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Perceptual narrowing in the first year is MOST consistent with which outcome?",
+      "options": ["Improved discrimination for both familiar and unfamiliar faces/phonemes equally", "Reduced specialization for stimuli in the infant’s environment", "Increased specialization for familiar faces/phonemes and reduced discrimination of unfamiliar ones", "A general loss of visual acuity after 6 months"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Why can early cataracts have long-term effects even if corrected later?",
+      "options": ["They permanently prevent synaptic pruning", "They reduce early patterned visual input during a sensitive period for perception", "They cause the child to develop avoidant attachment", "They increase perceptual narrowing for all stimuli"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Piaget’s theory, a scheme is BEST defined as:",
+      "options": ["A smallest unit of meaning", "A mental representation of relationships", "An organized pattern of action/thought used to interpret experiences", "A reflex that disappears with maturation"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A toddler sees a new animal (a zebra) and calls it “horse.” This is an example of:",
+      "options": ["Accommodation", "Assimilation", "Perceptual narrowing", "Syntax"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A child modifies their concept of “horse” after learning zebras are different. This is an example of:",
+      "options": ["Accommodation", "Assimilation", "Telegraphic speech", "Effortful control"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A major criticism of Piaget’s object permanence conclusions is that his tasks:",
+      "options": ["Measure temperament instead of cognition", "May underestimate infants because they require coordinated motor responses", "Only apply to children older than 5", "Overestimate infants because they are too easy"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Baillargeon’s drawbridge (violation-of-expectation) findings are often interpreted to suggest that infants:",
+      "options": ["Have no understanding of object continuity until they can search manually", "May show earlier understanding than Piaget’s manual search tasks indicate", "Learn object permanence only through reinforcement", "Cannot represent hidden objects at any age"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which language subsystem is MOST directly concerned with sentence structure?",
+      "options": ["Semantics", "Phonology", "Syntax", "Pragmatics"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A morpheme is:",
+      "options": ["The smallest unit of sound", "The smallest unit of meaning", "A conversational turn-taking cue", "A type of pointing gesture"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A child says “want cookie.” This is MOST characteristic of:",
+      "options": ["Babbling", "Telegraphic speech", "Recast", "Object permanence"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A parent responds to “Doggy run” with “Yes, the dog is running fast!” This is BEST described as:",
+      "options": ["Perceptual narrowing", "Recast and expansion", "Imperative pointing", "Negative affectivity"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement BEST captures the ‘problem of reference’ in word learning?",
+      "options": ["Children cannot produce phonemes reliably", "A new word could map onto many possible referents in the environment", "Children learn verbs before nouns universally", "Children must be explicitly taught grammar rules"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In temperament research, Chess & Thomas are MOST known for proposing:",
+      "options": ["Inhibited vs uninhibited categories based on novelty", "Reactivity plus self-regulation with 3 broad dimensions", "Nine dimensions and three temperament types (easy/difficult/slow-to-warm-up)", "Secure/avoidant/resistant/disorganized patterns"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Kagan’s temperament theory emphasizes individual differences in:",
+      "options": ["Behavioral inhibition in response to novelty", "Parent sensitivity as the cause of temperament", "Syntax acquisition in the first year", "Motor milestone timing as temperament"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Rothbart & Bates’ concept of effortful control MOST closely refers to:",
+      "options": ["Intensity of emotional reactions", "Regularity of biological rhythms", "Self-regulation of attention and behavior", "Avoidance of caregivers in stress"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The goodness-of-fit model predicts the best outcomes when:",
+      "options": ["Parents use the same approach for all children", "Parenting is matched to the child’s temperament and supports regulation", "Temperament is ignored to promote independence", "Children adapt only by changing their temperament"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A 12-month-old becomes distressed when the caregiver leaves, but is quickly soothed and returns to play when the caregiver returns. This pattern in the Strange Situation is MOST consistent with:",
+      "options": ["Avoidant attachment", "Resistant attachment", "Disorganized attachment", "Secure attachment"],
+      "answerIndex": 3
+    }
+  ]
+}

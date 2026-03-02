@@ -9,6 +9,11 @@
       "title": "243 Quiz 2 - Actual",
       "file": "243_2.json",
       "description": "Proper Quiz."
+    },
+    {
+      "title": "243 Quiz 3 - Midterm Level",
+      "file": "243_3.json",
+      "description": "Midterm Style Short Quiz."
     }
   ]
 }
