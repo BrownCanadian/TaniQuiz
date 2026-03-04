@@ -1,0 +1,128 @@
+{
+  "title": "PSYC 231 Theory Confusion Quiz (20 Questions)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A person buys a product because the advertisement includes detailed statistics and scientific evidence about its effectiveness. Which persuasion route best explains this?",
+"options":["Central route persuasion","Peripheral route persuasion","Authority persuasion","Social proof"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person buys the same product mainly because their favorite celebrity appears in the advertisement. Which persuasion route explains this decision?",
+"options":["Central route persuasion","Peripheral route persuasion","Informational influence","Consistency"],
+"answerIndex":1
+},
+
+{
+"prompt":"A student agrees with the group’s answer during a confusing exam review because they believe the other students understand the material better. Which type of influence is operating?",
+"options":["Normative influence","Informational influence","Reactance","Authority obedience"],
+"answerIndex":1
+},
+
+{
+"prompt":"A student agrees with the group’s incorrect answer because they do not want to appear foolish in front of classmates. Which type of influence is this?",
+"options":["Normative influence","Informational influence","Peripheral persuasion","Authority influence"],
+"answerIndex":0
+},
+
+{
+"prompt":"A discussion group about immigration gradually adopts more extreme political positions after members discuss their shared views. Which process explains this?",
+"options":["Groupthink","Group polarization","Social facilitation","Social loafing"],
+"answerIndex":1
+},
+
+{
+"prompt":"A committee ignores warning signs about a risky decision because members want to maintain harmony and avoid disagreement. Which process best explains this?",
+"options":["Group polarization","Groupthink","Normative influence","Informational influence"],
+"answerIndex":1
+},
+
+{
+"prompt":"A worker contributes less effort during a group project because individual contributions are not evaluated separately. Which concept explains this?",
+"options":["Social loafing","Deindividuation","Groupthink","Evaluation apprehension"],
+"answerIndex":0
+},
+
+{
+"prompt":"Fans in a large masked crowd behave aggressively during a riot because they feel anonymous and less personally responsible. Which concept explains this behavior?",
+"options":["Social loafing","Deindividuation","Group polarization","Normative influence"],
+"answerIndex":1
+},
+
+{
+"prompt":"A musician performs better in front of an audience when playing a well-practiced song but performs worse when playing a difficult new piece. Which concept explains this?",
+"options":["Social facilitation","Social loafing","Group polarization","Evaluation apprehension"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person helps someone pick up dropped groceries even though they expect no reward and no one is watching. Which concept best describes this behavior?",
+"options":["Altruism","Social exchange theory","Reciprocity","Bystander effect"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person volunteers at a charity event mainly because it makes them feel happier and improves their mood. Which explanation best fits?",
+"options":["Feel-good-do-good effect","Social loafing","Bystander effect","Group polarization"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person helps someone after feeling guilty about ignoring a previous request for help. Which explanation best fits?",
+"options":["Feel-bad-do-good effect","Kin selection","Peripheral persuasion","Authority influence"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person is less likely to help someone in distress when many other bystanders are present because responsibility feels shared. Which phenomenon explains this?",
+"options":["Social loafing","Bystander effect","Deindividuation","Group polarization"],
+"answerIndex":1
+},
+
+{
+"prompt":"A person helps their sibling financially but refuses to help a stranger in the same situation because helping relatives increases genetic survival. Which theory explains this?",
+"options":["Kin selection","Social exchange theory","Groupthink","Peripheral persuasion"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person spreads damaging rumors to harm another person's social relationships rather than physically attacking them. Which type of aggression is this?",
+"options":["Relational aggression","Hostile aggression","Instrumental aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"A violent attack occurs because the attacker is extremely angry and wants to harm the victim. Which type of aggression is this?",
+"options":["Hostile aggression","Instrumental aggression","Relational aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"A robber threatens someone with violence in order to steal money. Which type of aggression is this?",
+"options":["Instrumental aggression","Hostile aggression","Relational aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"Children imitate aggressive behavior after watching an adult act aggressively toward a toy in an experiment. Which theory explains this?",
+"options":["Social learning theory","Frustration-aggression theory","Biological aggression theory","Scarcity principle"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person yells at their coworker after being insulted earlier by someone else. Which aggression process explains redirecting anger toward a safer target?",
+"options":["Displacement","Instrumental aggression","Social learning","Biological aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"A program teaching empathy, emotional regulation, and conflict resolution skills to children aims to stop violence before it occurs. Which level of prevention is this?",
+"options":["Primary prevention","Secondary prevention","Tertiary prevention","Emergency intervention"],
+"answerIndex":0
+}
+
+]
+}

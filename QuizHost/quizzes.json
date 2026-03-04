@@ -1,33 +1,29 @@
 {
   "quizzes": [
     {
-      "title": "243 Quiz 1",
-      "file": "243_1.json",
+      "title": "231 MainTopics Only",
+      "file": "231_topics.json",
       "description": "Review quiz."
     },
      {
-      "title": "243 Quiz 2 - Actual",
-      "file": "243_2.json",
-      "description": "Proper Quiz."
+      "title": "231 Main Topics only 2",
+      "file": "231_topics2.json",
+      "description": "Review Quiz."
     },
     {
-      "title": "243 Quiz 3 - Midterm Level",
-      "file": "243_3.json",
-      "description": "Midterm Style Short Quiz."
+      "title": "231 Study Guide Big",
+      "file": "231_studyguide_big.json",
+      "description": "Midterm Style Big Quiz."
     },
     {
-      "title": "243 Quiz 4 - All Topic Coverage",
-      "file": "243_4.json",
-      "description": "Midterm Style All Topic Quiz."
+      "title": "231 Tricky Questions",
+      "file": "231_tricky.json",
+      "description": "Tricky Questions Quiz."
     },
     {
-      "title": "243 Not Mini Quiz -  Not Washroom",
-      "file": "243_mini.json",
-      "description": "Midterm Style Not Short Quiz."
-    },{
-      "title": "243 Mini Quiz 2 - Washroom",
-      "file": "243_mini_2.json",
-      "description": "Midterm Style Short Quiz."
+      "title": "231 theory testing",
+      "file": "231_theory_testing.json",
+      "description": "Testing theory Quiz."
     }
   ]
 }

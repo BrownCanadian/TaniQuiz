@@ -1,0 +1,200 @@
+{
+  "title": "PSYC 231 Professor-Style Trap Quiz (60 Questions)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A political advertisement uses emotional music and attractive actors but presents almost no policy information. Viewers report liking the candidate but cannot explain why. Which persuasion process best explains this?",
+"options":["Central route persuasion","Peripheral route persuasion","Informational conformity","Authority influence"],
+"answerIndex":1
+},
+
+{
+"prompt":"A student reads several detailed research articles before changing their opinion about climate policy. The change persists for months. Which persuasion route most likely produced this change?",
+"options":["Peripheral route","Central route","Scarcity persuasion","Social proof"],
+"answerIndex":1
+},
+
+{
+"prompt":"A charity first asks people to sign a small pledge supporting clean water initiatives. Weeks later they ask those same people for a large donation. Many donate. Which persuasion technique explains this?",
+"options":["Door-in-the-face","Foot-in-the-door","Lowball","Scarcity"],
+"answerIndex":1
+},
+
+{
+"prompt":"A salesperson first asks a customer to buy a very expensive product. When the customer refuses, they offer a much cheaper alternative, which the customer accepts. Which persuasion technique is this?",
+"options":["Door-in-the-face","Foot-in-the-door","Lowball","Authority"],
+"answerIndex":0
+},
+
+{
+"prompt":"An advertisement claims that 'millions of people already use this product.' Consumers assume it must be good. Which persuasion principle is this?",
+"options":["Social proof","Authority","Scarcity","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"A doctor recommends a medication while wearing a white lab coat and using technical language. Patients trust the recommendation largely because of the doctor's professional status. Which persuasion principle explains this?",
+"options":["Authority","Reciprocity","Scarcity","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"A store advertises 'last chance — sale ends tonight!' even though the product will still be available later. Which persuasion principle is being used?",
+"options":["Scarcity","Reciprocity","Consistency","Liking"],
+"answerIndex":0
+},
+
+{
+"prompt":"A student agrees with the group’s incorrect answer about a math problem because everyone else in the group chose that answer and the student assumes they must know something they don't. Which influence is operating?",
+"options":["Normative influence","Informational influence","Authority influence","Peripheral persuasion"],
+"answerIndex":1
+},
+
+{
+"prompt":"A person laughs at a joke they did not understand because everyone else laughed and they want to fit in socially. Which influence explains this behavior?",
+"options":["Normative influence","Informational influence","Authority obedience","Reactance"],
+"answerIndex":0
+},
+
+{
+"prompt":"In a line judgment experiment, participants knowingly choose incorrect answers after hearing others do so. Which classic study does this resemble?",
+"options":["Sherif","Asch","Milgram","Bandura"],
+"answerIndex":1
+},
+
+{
+"prompt":"Participants administer shocks to another person because an experimenter insists they continue. Which foundational research study does this replicate?",
+"options":["Asch","Milgram","Sherif","Zimbardo"],
+"answerIndex":1
+},
+
+{
+"prompt":"A person deliberately chooses the opposite of what a group suggests because they strongly value personal freedom. Which concept best explains this?",
+"options":["Reactance","Normative influence","Group polarization","Social loafing"],
+"answerIndex":0
+},
+
+{
+"prompt":"A skilled musician performs better in front of an audience when playing a familiar piece but performs worse when trying a new complex composition. Which theory explains this pattern?",
+"options":["Social facilitation","Social loafing","Groupthink","Deindividuation"],
+"answerIndex":0
+},
+
+{
+"prompt":"A worker contributes less effort during a group project because individual contributions are not evaluated separately. Which concept explains this behavior?",
+"options":["Social facilitation","Social loafing","Group polarization","Evaluation apprehension"],
+"answerIndex":1
+},
+
+{
+"prompt":"A group assignment improves when each member is responsible for a clearly defined section of the project. Which problem is being reduced?",
+"options":["Social loafing","Group polarization","Groupthink","Deindividuation"],
+"answerIndex":0
+},
+
+{
+"prompt":"Fans in a large masked crowd begin rioting after a sports loss. Many later say they felt anonymous and not personally responsible. Which theory explains this behavior?",
+"options":["Deindividuation","Groupthink","Social loafing","Normative influence"],
+"answerIndex":0
+},
+
+{
+"prompt":"A discussion group about politics becomes more extreme after members discuss their shared views. Which phenomenon explains this change?",
+"options":["Group polarization","Groupthink","Social facilitation","Bystander effect"],
+"answerIndex":0
+},
+
+{
+"prompt":"A group of executives refuses to question a risky decision because they want to maintain harmony within the group. Which process best explains this?",
+"options":["Group polarization","Groupthink","Social loafing","Normative persuasion"],
+"answerIndex":1
+},
+
+{
+"prompt":"Members of a committee privately doubt a decision but stay silent to avoid conflict. Which groupthink symptom is this?",
+"options":["Self-censorship","Mindguards","Illusion of invulnerability","Rationalization"],
+"answerIndex":0
+},
+
+{
+"prompt":"A team member blocks negative information from reaching the group leader to maintain consensus. Which groupthink symptom is this?",
+"options":["Mindguards","Self-censorship","Rationalization","Derogation of outsiders"],
+"answerIndex":0
+},
+
+{
+"prompt":"A decision-making team assigns someone to challenge every proposal and question assumptions. Which strategy is being used?",
+"options":["Devil’s advocate","Mindguard","Polarization control","Authority intervention"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person helps a stranger even though they expect no reward and no one will know they helped. Which concept best describes this?",
+"options":["Altruism","Reciprocity","Social exchange","Authority obedience"],
+"answerIndex":0
+},
+
+{
+"prompt":"Someone volunteers at a hospital because helping others improves their mood. Which explanation fits best?",
+"options":["Feel-good-do-good","Kin selection","Bystander effect","Scarcity principle"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person donates money after feeling guilty for ignoring a previous request. Which explanation best fits?",
+"options":["Feel-bad-do-good","Social loafing","Group polarization","Authority persuasion"],
+"answerIndex":0
+},
+
+{
+"prompt":"People are less likely to help someone having a seizure in a crowded subway station because they assume someone else will help. What phenomenon explains this?",
+"options":["Bystander effect","Social loafing","Groupthink","Deindividuation"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person helps their sibling financially but refuses to help a stranger in the same situation. Which theory explains this difference?",
+"options":["Kin selection","Social exchange","Group polarization","Peripheral persuasion"],
+"answerIndex":0
+},
+
+{
+"prompt":"A violent attack occurs because the attacker wants revenge and is driven by anger. Which type of aggression is this?",
+"options":["Hostile aggression","Instrumental aggression","Relational aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person robs a store and threatens violence only to obtain money. Which type of aggression is this?",
+"options":["Instrumental aggression","Hostile aggression","Relational aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"Children imitate aggressive behaviors they observe adults performing toward toys in an experiment. Which theory explains this?",
+"options":["Social learning theory","Frustration aggression theory","Biological aggression theory","Scarcity principle"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person insults a coworker after being yelled at by their boss earlier in the day. Which aggression theory explains redirecting anger to a safer target?",
+"options":["Displacement","Social learning","Instrumental aggression","Biological aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"Programs teaching children emotional regulation, empathy, and conflict resolution aim to reduce aggression before it occurs. Which prevention level is this?",
+"options":["Primary prevention","Secondary prevention","Tertiary prevention","Emergency intervention"],
+"answerIndex":0
+},
+
+{
+"prompt":"Programs encouraging men to challenge harmful gender norms and promote healthy masculinity are designed to reduce which problem?",
+"options":["Gender-based violence","Social loafing","Group polarization","Normative influence"],
+"answerIndex":0
+}
+
+]
+}

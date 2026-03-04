@@ -1,0 +1,82 @@
+{
+  "title": "PSYC 231 Exam 2 Practice Quiz A",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "According to the Elaboration Likelihood Model, when people carefully analyze arguments and think deeply about a message, persuasion occurs through which route?",
+      "options": ["Peripheral route", "Central route", "Automatic compliance", "Social proof route"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which persuasion route usually produces longer-lasting attitude change?",
+      "options": ["Peripheral route", "Central route", "Authority cues", "Scarcity cues"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Asch's line study, participants conformed primarily because of:",
+      "options": ["Informational influence", "Normative influence", "Authority pressure", "Fear of punishment"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Milgram’s obedience study, participants continued administering shocks mainly because:",
+      "options": ["They enjoyed harming others", "They wanted to impress others", "An authority figure instructed them to continue", "They believed shocks were fake"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which factor increases conformity the most in Asch-style experiments?",
+      "options": ["Unanimous group opinion", "Private responses", "Low group size", "Existing commitments"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Social facilitation refers to:",
+      "options": ["Improved performance on difficult tasks when others are present", "Improved performance on easy tasks when others are present", "Reduced performance on all tasks when observed", "Working harder when alone"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "When others are present, performance on difficult or unfamiliar tasks tends to:",
+      "options": ["Improve", "Remain unchanged", "Worsen", "Become perfectly accurate"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Social loafing occurs when:",
+      "options": ["People work harder in groups", "People put in less effort in group work", "Groups make better decisions", "People imitate others"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Group polarization means that after group discussion:",
+      "options": ["People become more neutral", "Opinions become more extreme", "Groups avoid making decisions", "Members become less confident"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Groupthink is most likely when a group:",
+      "options": ["Has strong disagreement", "Encourages criticism", "Is highly cohesive and insulated from outside opinions", "Has diverse viewpoints"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which is NOT a symptom of groupthink?",
+      "options": ["Illusion of invulnerability", "Self-censorship", "Devil’s advocacy", "Mindguards"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Altruism is defined as helping behavior:",
+      "options": ["Done only for rewards", "Done to increase status", "Done with no expectation of reward", "Done to gain power"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The 'feel bad – do good' effect suggests people help others in order to:",
+      "options": ["Increase profits", "Relieve negative feelings like guilt", "Improve reputation only", "Follow authority"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The bystander effect occurs when:",
+      "options": ["People are more helpful in groups", "People are less likely to help when others are present", "People help only strangers", "People only help friends"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Hostile aggression refers to aggression that is:",
+      "options": ["Used as a means to an end", "Driven by anger and desire to harm", "Accidental", "Used for survival only"],
+      "answerIndex": 1
+    }
+  ]
+}

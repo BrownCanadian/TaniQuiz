@@ -1,0 +1,242 @@
+{
+  "title": "PSYC 231 Exam 2 MEGA Scenario Practice Quiz (Full Study Guide)",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A university launches a campaign explaining the science behind climate change using data, graphs, and expert analysis. Students carefully evaluate the arguments and later report lasting attitude change. Which persuasion process is most likely responsible?",
+"options":["Peripheral route persuasion","Central route persuasion","Social proof persuasion","Scarcity persuasion"],
+"answerIndex":1
+},
+
+{
+"prompt":"A soda commercial shows a famous actor drinking the product and smiling, but provides no factual information about the drink. Consumers report liking the product because they like the actor. Which persuasion route is operating?",
+"options":["Central route","Peripheral route","Authority route","Consistency route"],
+"answerIndex":1
+},
+
+{
+"prompt":"A charity sends small gifts like address labels along with donation requests. Many recipients donate afterward because they feel obligated. Which persuasion principle is this?",
+"options":["Reciprocity","Consistency","Scarcity","Authority"],
+"answerIndex":0
+},
+
+{
+"prompt":"A student first agrees to put a small sticker supporting environmental protection on their laptop. Later they are asked to attend a large climate protest and agree. Which persuasion technique is this?",
+"options":["Door-in-the-face","Foot-in-the-door","Lowball","Scarcity"],
+"answerIndex":1
+},
+
+{
+"prompt":"A store advertises a product at a low price but later reveals additional mandatory costs after customers commit to buying. Which persuasion technique is this?",
+"options":["Lowball","Foot-in-the-door","Door-in-the-face","Reciprocity"],
+"answerIndex":0
+},
+
+{
+"prompt":"A restaurant advertises 'Only 5 seats left tonight!' to motivate customers to reserve immediately. Which persuasion principle is being used?",
+"options":["Scarcity","Authority","Reciprocity","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"An advertisement says '9 out of 10 dentists recommend this toothpaste.' Which persuasion principle is being used?",
+"options":["Authority","Scarcity","Consistency","Liking"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person changes their opinion about a political issue after hearing strong logical arguments and considering evidence carefully. Which persuasion route explains this?",
+"options":["Central route","Peripheral route","Authority persuasion","Social proof"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person agrees to donate money after seeing that thousands of others have already donated online. Which persuasion principle is this?",
+"options":["Social proof","Authority","Scarcity","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"A customer buys a product because a salesperson compliments them and builds rapport first. Which persuasion principle explains this?",
+"options":["Liking","Scarcity","Authority","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"In a psychology study participants estimate how far a light moves in a dark room. Their answers gradually converge as they hear others' responses. Which researcher's work does this resemble?",
+"options":["Sherif","Asch","Milgram","Bandura"],
+"answerIndex":0
+},
+
+{
+"prompt":"In a line judgment task, participants knowingly give an incorrect answer after hearing several confederates give the same wrong answer. Which classic experiment is this?",
+"options":["Asch conformity experiment","Milgram obedience experiment","Sherif autokinetic study","Stanford prison experiment"],
+"answerIndex":0
+},
+
+{
+"prompt":"A participant administers electric shocks to another person because an authority figure instructs them to continue. Which experiment does this resemble?",
+"options":["Milgram obedience study","Sherif conformity study","Asch line study","Bandura aggression study"],
+"answerIndex":0
+},
+
+{
+"prompt":"A student agrees with the group’s incorrect answer because they do not want to appear foolish or be rejected. What type of influence is this?",
+"options":["Normative influence","Informational influence","Peripheral persuasion","Authority obedience"],
+"answerIndex":0
+},
+
+{
+"prompt":"During a confusing situation, a person assumes others know what is happening and follows their lead. Which influence explains this?",
+"options":["Informational influence","Normative influence","Scarcity","Consistency"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person refuses to go along with a group decision because they strongly value independence and freedom. Which concept explains this?",
+"options":["Reactance","Normative influence","Group polarization","Peripheral persuasion"],
+"answerIndex":0
+},
+
+{
+"prompt":"A basketball player performs extremely well during practice when teammates watch but performs worse when learning a new move in front of spectators. Which concept explains this?",
+"options":["Social facilitation","Social loafing","Groupthink","Deindividuation"],
+"answerIndex":0
+},
+
+{
+"prompt":"A student becomes nervous during a presentation because they know classmates are evaluating them. Which mechanism of social facilitation explains this?",
+"options":["Evaluation apprehension","Mere presence","Distraction","Dominant response"],
+"answerIndex":0
+},
+
+{
+"prompt":"A worker contributes less effort to a group project because individual contributions are not monitored. Which concept explains this?",
+"options":["Social loafing","Groupthink","Polarization","Evaluation apprehension"],
+"answerIndex":0
+},
+
+{
+"prompt":"A group performs better when members believe their contributions are uniquely necessary. Which strategy is being used?",
+"options":["Reducing social loafing","Increasing deindividuation","Encouraging polarization","Encouraging conformity"],
+"answerIndex":0
+},
+
+{
+"prompt":"Participants wearing masks in a large crowd begin vandalizing property because they feel anonymous. Which concept explains this behavior?",
+"options":["Deindividuation","Social facilitation","Social loafing","Groupthink"],
+"answerIndex":0
+},
+
+{
+"prompt":"Members of an online political forum gradually adopt more extreme views after discussing their opinions with like-minded individuals. Which concept explains this?",
+"options":["Group polarization","Groupthink","Social loafing","Bystander effect"],
+"answerIndex":0
+},
+
+{
+"prompt":"A company’s executive team ignores warning signs and unanimously approves a risky plan because members want to maintain group unity. Which phenomenon explains this?",
+"options":["Groupthink","Group polarization","Social facilitation","Informational influence"],
+"answerIndex":0
+},
+
+{
+"prompt":"Members of a decision-making group privately doubt the plan but remain silent to maintain consensus. Which groupthink symptom is this?",
+"options":["Self-censorship","Mindguards","Rationalization","Illusion of invulnerability"],
+"answerIndex":0
+},
+
+{
+"prompt":"A group believes their decisions cannot fail because they are highly skilled and experienced. Which groupthink symptom is this?",
+"options":["Illusion of invulnerability","Self-censorship","Mindguards","Derogation of outsiders"],
+"answerIndex":0
+},
+
+{
+"prompt":"A team member blocks outside criticism and prevents negative information from reaching the group. Which groupthink symptom is this?",
+"options":["Mindguards","Self-censorship","Rationalization","Derogation of outsiders"],
+"answerIndex":0
+},
+
+{
+"prompt":"A committee assigns someone to intentionally challenge decisions to prevent poor group decisions. Which groupthink prevention strategy is this?",
+"options":["Devil’s advocate","Mindguard","Polarization reduction","Authority leadership"],
+"answerIndex":0
+},
+
+{
+"prompt":"A stranger helps another person carry heavy groceries even though they receive nothing in return. Which concept best describes this behavior?",
+"options":["Altruism","Reciprocity","Social proof","Authority obedience"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person volunteers at a shelter because helping others improves their mood and makes them feel happy. Which theory explains this?",
+"options":["Feel-good-do-good","Social exchange","Kin selection","Peripheral persuasion"],
+"answerIndex":0
+},
+
+{
+"prompt":"Someone helps another person after feeling guilty for ignoring a previous request. Which explanation fits best?",
+"options":["Feel-bad-do-good","Social exchange","Kin selection","Authority influence"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person helps their sibling more readily than a stranger because helping relatives increases survival of shared genes. Which theory explains this?",
+"options":["Kin selection","Social exchange","Group polarization","Reciprocity"],
+"answerIndex":0
+},
+
+{
+"prompt":"People are less likely to help someone in distress when many others are present because responsibility is shared. What phenomenon is this?",
+"options":["Bystander effect","Social loafing","Group polarization","Deindividuation"],
+"answerIndex":0
+},
+
+{
+"prompt":"A training program teaches people how to recognize emergencies and intervene when necessary. Which strategy is this designed to overcome?",
+"options":["Bystander effect","Social loafing","Groupthink","Social facilitation"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person insults someone after being publicly humiliated earlier by another individual. Which aggression theory explains redirecting anger to a safer target?",
+"options":["Displacement","Social learning","Biological aggression","Instrumental aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"Children imitate aggressive behaviors they observe adults performing toward a toy. Which theory explains this?",
+"options":["Social learning theory","Evolutionary aggression theory","Catharsis theory","Scarcity principle"],
+"answerIndex":0
+},
+
+{
+"prompt":"A violent robbery occurs because the attacker wants money rather than harming the victim emotionally. Which type of aggression is this?",
+"options":["Instrumental aggression","Hostile aggression","Relational aggression","Displaced aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"A person spreads rumors to damage someone’s social relationships rather than physically harming them. Which type of aggression is this?",
+"options":["Relational aggression","Hostile aggression","Instrumental aggression","Biological aggression"],
+"answerIndex":0
+},
+
+{
+"prompt":"Programs teaching emotional regulation, empathy, and conflict resolution aim to reduce aggression before it occurs. Which level of prevention is this?",
+"options":["Primary prevention","Secondary prevention","Tertiary prevention","Crisis prevention"],
+"answerIndex":0
+},
+
+{
+"prompt":"Programs encouraging healthier definitions of masculinity to reduce gender-based violence represent which prevention strategy?",
+"options":["Gender-transformative programs","Catharsis programs","Authority interventions","Group polarization programs"],
+"answerIndex":0
+}
+
+]
+}

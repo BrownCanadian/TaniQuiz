@@ -1,0 +1,82 @@
+{
+  "title": "PSYC 231 Exam 2 Practice Quiz B",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which persuasion cue works by making something seem more valuable because it is limited?",
+      "options": ["Authority", "Scarcity", "Reciprocity", "Consistency"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The principle of reciprocity in persuasion means:",
+      "options": ["People like to argue", "People feel obligated to return favors", "People dislike authority", "People ignore social norms"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Informational influence occurs when people conform because:",
+      "options": ["They want to be liked", "They believe others are correct", "They are afraid of punishment", "They want rewards"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Normative influence occurs when people conform because:",
+      "options": ["They believe others know better", "They want to avoid rejection", "They are forced to comply", "They seek rewards"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Evaluation apprehension refers to:",
+      "options": ["Fear of being judged by others", "Fear of physical harm", "Fear of public speaking", "Fear of failure"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which factor can reduce social loafing?",
+      "options": ["Large anonymous groups", "Making individuals feel indispensable", "Removing evaluation", "Increasing anonymity"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Deindividuation is most likely when people:",
+      "options": ["Feel highly self-aware", "Are anonymous within a group", "Work individually", "Feel personally responsible"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which theory explains group polarization by suggesting people adopt positions closer to their group identity?",
+      "options": ["Self-categorization theory", "Frustration-aggression theory", "Social exchange theory", "Evolutionary theory"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which strategy helps prevent groupthink?",
+      "options": ["Encouraging self-censorship", "Appointing a devil’s advocate", "Avoiding outside opinions", "Increasing group pressure"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to social exchange theory, helping behavior occurs when:",
+      "options": ["Benefits outweigh costs", "Costs outweigh benefits", "People feel no emotion", "People are forced"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Kin selection predicts people are most likely to help:",
+      "options": ["People who are wealthy", "Strangers", "Genetic relatives", "Authority figures"],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which step is part of the bystander intervention process?",
+      "options": ["Ignoring the situation", "Noticing the event", "Leaving immediately", "Delegating responsibility automatically"],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Displacement in aggression occurs when:",
+      "options": ["Aggression is directed toward a safer target", "Aggression disappears completely", "People calm themselves", "Aggression becomes cooperative behavior"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "According to social learning theory, aggression is often learned through:",
+      "options": ["Observation and imitation", "Genetic inheritance only", "Punishment alone", "Isolation from others"],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which prevention strategy focuses on stopping violence before it occurs?",
+      "options": ["Primary prevention", "Secondary prevention", "Tertiary prevention", "Reactive prevention"],
+      "answerIndex": 0
+    }
+  ]
+}
