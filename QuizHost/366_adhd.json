@@ -1,0 +1,228 @@
+{
+  "title": "ADHD Chapter Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A 9-year-old frequently starts homework but becomes distracted and never finishes assignments. Teachers report the child often appears not to listen even when spoken to directly. Which ADHD symptom cluster best explains these behaviors?",
+"options":[
+"Inattention",
+"Hyperactivity",
+"Impulsivity",
+"Oppositional behavior"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A child constantly taps their feet, leaves their seat during class, and struggles to stay still even during quiet activities. Which ADHD symptom category best fits this behavior?",
+"options":[
+"Inattention",
+"Hyperactivity",
+"Impulsivity",
+"Emotional dysregulation"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A student blurts out answers in class before the teacher finishes asking the question and frequently interrupts conversations. Which ADHD symptom category is most clearly illustrated?",
+"options":[
+"Inattention",
+"Hyperactivity",
+"Impulsivity",
+"Executive dysfunction"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"A child consistently loses school supplies, forgets to return assignments, and struggles to organize tasks. Which executive functioning difficulty is most related to these problems?",
+"options":[
+"Response inhibition",
+"Working memory and organization",
+"Motor coordination",
+"Emotion recognition"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"According to DSM-5-TR diagnostic criteria, ADHD symptoms must persist for at least how long before diagnosis can be considered?",
+"options":[
+"1 month",
+"3 months",
+"6 months or longer",
+"1 year"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"A clinician suspects ADHD but notes symptoms only appear in school and never occur at home or other environments. Why might the clinician hesitate to diagnose ADHD?",
+"options":[
+"Symptoms must appear before age 4",
+"Symptoms must occur in at least two settings",
+"Symptoms must involve hyperactivity",
+"Symptoms must include emotional dysregulation"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A teenager continues to struggle with inattention but shows less obvious hyperactivity compared to childhood. Which ADHD pattern does research suggest is most likely to persist into adulthood?",
+"options":[
+"Inattention",
+"Hyperactivity",
+"Motor tics",
+"Speech delays"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A psychologist explains ADHD as a problem with the brain’s “traffic control system,” where signals that regulate attention and behavior are mistimed or missing. Which cognitive system is being described?",
+"options":[
+"Executive functioning",
+"Memory consolidation",
+"Language processing",
+"Visual perception"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A child with ADHD experiences intense emotional reactions when corrected and struggles to calm down after becoming upset. Which underlying difficulty is most closely related to this pattern?",
+"options":[
+"Emotion regulation difficulties",
+"Motor coordination deficits",
+"Language comprehension problems",
+"Visual processing delays"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Research suggests ADHD is linked to disruptions in which neurotransmitter system most strongly associated with reward and motivation?",
+"options":[
+"Serotonin",
+"Dopamine",
+"GABA",
+"Acetylcholine"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which brain region is most commonly associated with ADHD-related differences in attention regulation and behavioral control?",
+"options":[
+"Occipital cortex",
+"Prefrontal cortex",
+"Cerebellum",
+"Hippocampus"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child with ADHD often chews pencils, drinks sugary drinks frequently, and bites their nails. These behaviors may serve what function according to regulation models?",
+"options":[
+"Punishment avoidance",
+"Oral sensory regulation",
+"Language stimulation",
+"Motor coordination training"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child with ADHD struggles with emotional control and frequently reacts strongly when situations feel unfair. Which factor discussed in the lecture helps explain these reactions?",
+"options":[
+"Heightened sensitivity to perceived unfairness",
+"Reduced intelligence",
+"Low empathy",
+"Lack of social interest"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A clinician notices that a child's emotional reactions are brief, situation-specific, and triggered by identifiable events. According to Barkley’s framework, how are emotions in ADHD typically characterized?",
+"options":[
+"Long lasting and mood based",
+"Time-limited and provoked",
+"Completely random",
+"Unrelated to environmental triggers"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which treatment approach is considered the most effective first-line treatment for core ADHD symptoms?",
+"options":[
+"Mindfulness training",
+"Stimulant medication",
+"Psychodynamic therapy",
+"Dietary supplements"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which intervention focuses on teaching parents strategies to manage children’s ADHD behaviors, especially in younger children?",
+"options":[
+"Parent training programs",
+"Cognitive behavioral therapy",
+"Exposure therapy",
+"Speech therapy"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A teacher divides large assignments into smaller tasks, provides frequent feedback, and increases task stimulation with color and movement. Which type of intervention does this represent?",
+"options":[
+"Behavioral classroom intervention",
+"Medication therapy",
+"Psychodynamic treatment",
+"Exposure therapy"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Research indicates ADHD occurs in approximately what percentage of children and adolescents in North America?",
+"options":[
+"1–2%",
+"5–9%",
+"15–20%",
+"30–40%"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Why are boys diagnosed with ADHD more frequently than girls according to research discussed in the lecture?",
+"options":[
+"ADHD never occurs in girls",
+"Girls cannot experience hyperactivity",
+"Referral and diagnostic biases may exist",
+"Girls always outgrow ADHD before diagnosis"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"A child displays hyperactivity, impulsivity, and inattention that interfere with school performance, peer relationships, and daily functioning. Which concept describes the negative effects on life outcomes resulting from ADHD symptoms?",
+"options":[
+"Secondary impairments",
+"Executive functioning",
+"Joint attention",
+"Social cognition"
+],
+"answerIndex":0
+}
+
+]
+}

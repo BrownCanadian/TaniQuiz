@@ -1,0 +1,228 @@
+{
+  "title": "Disruptive Behaviour Disorders Chapter Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A psychologist explains that behaviours such as rule-breaking, aggression, and defiance exist on a spectrum rather than as completely separate categories. Which perspective on conduct problems does this reflect?",
+"options":[
+"Categorical disorder model",
+"Continuous externalizing behavior dimension",
+"Attachment classification system",
+"Neurodevelopmental stage theory"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child frequently argues with adults, deliberately annoys others, and refuses to follow rules but does not engage in severe aggression or property destruction. Which disorder best fits this pattern?",
+"options":[
+"Oppositional Defiant Disorder",
+"Conduct Disorder",
+"Intermittent Explosive Disorder",
+"Disruptive Mood Dysregulation Disorder"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A teenager repeatedly engages in serious behaviors such as vandalism, stealing, physical aggression, and cruelty toward animals. Which disorder is most consistent with this pattern?",
+"options":[
+"Oppositional Defiant Disorder",
+"Conduct Disorder",
+"ADHD",
+"Adjustment disorder"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child frequently interprets neutral actions by peers as intentionally hostile. For example, when accidentally bumped in the hallway, the child assumes the other student meant to harm them. Which cognitive bias best explains this interpretation?",
+"options":[
+"Egocentric reasoning",
+"Hostile attribution bias",
+"Selective attention bias",
+"Confirmation bias"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A psychologist suggests that a youth’s aggressive behavior may reflect trauma exposure, attachment insecurity, and emotional dysregulation rather than simply a rule-breaking personality. Which framework does this reflect?",
+"options":[
+"Trans-diagnostic perspective",
+"Behaviorist punishment model",
+"Strict diagnostic labeling model",
+"Biological determinism"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A clinician labels a child as having conduct disorder, and teachers subsequently begin expecting the child to behave aggressively. Over time the child begins acting more aggressively. Which phenomenon does this example illustrate?",
+"options":[
+"Diagnostic overshadowing",
+"Self-fulfilling prophecy",
+"Executive dysfunction",
+"Social learning"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which developmental pathway describes individuals who show persistent antisocial behavior beginning early in childhood and continuing into adulthood?",
+"options":[
+"Adolescence-limited pathway",
+"Life-course persistent pathway",
+"Situational conduct pathway",
+"Context-dependent pathway"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Research indicates that most individuals who engage in antisocial behavior do so primarily during which developmental period?",
+"options":[
+"Early childhood",
+"Middle childhood",
+"Adolescence",
+"Late adulthood"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"A child appears emotionally detached, rejects help from caregivers, and acts aggressively when independence feels threatened. Which attachment pattern may underlie this presentation?",
+"options":[
+"Avoidant attachment",
+"Secure attachment",
+"Anxious attachment",
+"Disorganized attachment"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A child alternates between clinging to caregivers and expressing anger toward them, showing intense emotional reactions when they feel rejected. Which attachment pattern best fits this description?",
+"options":[
+"Avoidant attachment",
+"Secure attachment",
+"Anxious/ambivalent attachment",
+"Disorganized attachment"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"A child displays chaotic and contradictory behaviors toward caregivers who are both a source of comfort and fear. Which attachment pattern does this most likely represent?",
+"options":[
+"Secure attachment",
+"Avoidant attachment",
+"Anxious attachment",
+"Disorganized attachment"
+],
+"answerIndex":3
+},
+
+{
+"prompt":"Which underlying process is commonly shared across many disruptive behavior disorders according to the trans-diagnostic perspective?",
+"options":[
+"Emotion regulation difficulties",
+"High IQ",
+"Language deficits",
+"Visual processing impairments"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A psychologist explains that diagnosis of disruptive behavior disorders often focuses on observable behavior rather than underlying mechanisms. Which critique of diagnostic systems does this reflect?",
+"options":[
+"Overemphasis on observable symptoms",
+"Underemphasis on genetics",
+"Overreliance on brain imaging",
+"Excessive pharmacological focus"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Research shows that Black and Latinx youth are more likely to receive diagnoses of ODD or conduct disorder compared to ADHD. Which issue does this illustrate?",
+"options":[
+"Genetic predisposition",
+"Diagnostic bias and systemic inequality",
+"Improved screening accuracy",
+"Cultural immunity to ADHD"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A psychologist suggests exploring environmental factors such as poverty, trauma, and social context when evaluating disruptive behaviors rather than focusing only on individual pathology. Which conceptual model does this align with?",
+"options":[
+"The river analogy (upstream causes)",
+"Biological determinism",
+"Behavioral punishment theory",
+"Classical conditioning model"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Which goal best reflects the philosophy of restorative justice when responding to youth offending behavior?",
+"options":[
+"Punishment and exclusion",
+"Accountability and repairing harm",
+"Strict incarceration",
+"Removing community involvement"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Restorative justice aligns with adolescent neurodevelopment research because adolescents are still developing which brain system responsible for planning and impulse control?",
+"options":[
+"Occipital cortex",
+"Prefrontal cortex",
+"Hippocampus",
+"Brainstem"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which factor is most strongly associated with increased risk of disruptive behavior disorders?",
+"options":[
+"Secure attachment",
+"Trauma exposure and threat sensitivity",
+"High academic achievement",
+"Strong peer relationships"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Callous-unemotional traits in conduct disorder are most associated with which behavioral pattern?",
+"options":[
+"Impulsive but remorseful aggression",
+"Premeditated and instrumental aggression",
+"Situational anger only",
+"Emotionally reactive behavior only"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which concept best explains why behaviors that seem defiant in one context may actually reflect developmentally typical behavior in another?",
+"options":[
+"Developmental context and age appropriateness",
+"Neurochemical imbalance",
+"Genetic determinism",
+"Emotional contagion"
+],
+"answerIndex":0
+}
+
+]
+}

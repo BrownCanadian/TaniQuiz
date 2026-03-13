@@ -1,0 +1,228 @@
+{
+  "title": "Autism Chapter Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+
+{
+"prompt":"A 3-year-old child rarely responds when their name is called, does not point to share interest with caregivers, and shows little spontaneous sharing of enjoyment with others. Which DSM-5-TR ASD domain does this behaviour primarily reflect?",
+"options":[
+"Restricted and repetitive behaviors",
+"Deficits in social communication and social interaction",
+"Sensory processing abnormalities",
+"Motor coordination impairment"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"During a developmental assessment, a child repeatedly flaps their hands and scripts lines from a favorite cartoon whenever excited. According to DSM-5-TR ASD criteria, which category does this best represent?",
+"options":[
+"Motor stereotypies including speech",
+"Deficits in social reciprocity",
+"Language comprehension deficits",
+"Attachment disorder"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A researcher shows participants animated triangles and circles interacting on a screen. Neurotypical individuals describe the shapes as 'bullying' or 'playing,' while some autistic individuals describe only physical movements. Which cognitive concept is primarily being assessed?",
+"options":[
+"Executive functioning",
+"Theory of Mind",
+"Joint attention",
+"Emotional regulation"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A clinician observes that a child speaks fluently but frequently repeats entire phrases from television shows in conversation rather than generating novel responses. Which ASD communication feature is this?",
+"options":[
+"Pronoun reversal",
+"Echolalia",
+"Semantic aphasia",
+"Selective mutism"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child insists on following the exact same morning routine and becomes extremely distressed when a teacher cancels a planned field trip. Which ASD criterion does this behaviour best represent?",
+"options":[
+"Restricted fixated interests",
+"Insistence on sameness",
+"Sensory reactivity",
+"Social reciprocity deficit"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A child spends hours memorizing train timetables and becomes intensely focused on this topic to the exclusion of other activities. Which DSM-5-TR ASD feature does this illustrate?",
+"options":[
+"Restricted fixated interests",
+"Social reciprocity deficit",
+"Motor stereotypy",
+"Language delay"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A child becomes extremely distressed by certain clothing textures and frequently covers their ears when hearing loud sounds that others tolerate easily. Which ASD feature is most relevant?",
+"options":[
+"Hyper- or hypo-reactivity to sensory input",
+"Motor stereotypies",
+"Language processing deficit",
+"Social anxiety disorder"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"A child appears socially typical at school but has emotional meltdowns at home due to exhaustion from imitating peers' social behaviors throughout the day. Which concept best explains this phenomenon?",
+"options":[
+"Social facilitation",
+"Social camouflage",
+"Joint attention deficit",
+"Behavioral regression"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Research suggests autism is diagnosed approximately four times more often in boys than girls. However, some researchers argue this may partly reflect what issue?",
+"options":[
+"Biological immunity in females",
+"Diagnostic bias toward male prototypes",
+"Lower symptom severity in males",
+"Reduced screening in boys"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A clinician notes that a child avoids eye contact, struggles with conversational turn-taking, and has difficulty interpreting sarcasm. These challenges primarily fall under which DSM-5-TR category?",
+"options":[
+"Restricted behaviors",
+"Non-verbal social communication deficits",
+"Motor development delays",
+"Sensory abnormalities"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Which historical theory incorrectly proposed that autism was caused by emotionally distant parenting?",
+"options":[
+"Refrigerator mother hypothesis",
+"Attachment disruption model",
+"Extreme male brain theory",
+"Executive dysfunction hypothesis"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Why is the 'refrigerator mother' hypothesis now considered harmful and incorrect?",
+"options":[
+"It blamed families and delayed biological research",
+"It ignored environmental toxins",
+"It overstated genetic influences",
+"It minimized developmental screening"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Which factor has been identified as one of the strongest predictors of long-term outcomes for individuals with ASD?",
+"options":[
+"Parental income",
+"Cognitive ability and language skills",
+"School size",
+"Birth order"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"Early signs of autism often appear between 6 and 18 months. Which of the following is one of the earliest observed indicators?",
+"options":[
+"Advanced verbal reasoning",
+"Reduced social orienting to faces",
+"Strong imaginative play",
+"Early reading ability"
+],
+"answerIndex":1
+},
+
+{
+"prompt":"A parent reports their toddler rarely follows another person’s gaze or pointing gesture toward an object. Which developmental process may be impaired?",
+"options":[
+"Joint attention",
+"Executive functioning",
+"Motor coordination",
+"Object permanence"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Research indicates the apparent rise in autism prevalence is likely influenced by which factor?",
+"options":[
+"Improved awareness and screening",
+"Sudden genetic mutation worldwide",
+"New infectious disease",
+"Declining birth rates"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Which of the following best describes the DSM-5-TR change compared to DSM-IV diagnostic categories for autism?",
+"options":[
+"Separate disorders were merged into a single autism spectrum diagnosis",
+"Autism was removed from neurodevelopmental disorders",
+"Asperger’s disorder replaced autism diagnosis",
+"Communication deficits were removed from criteria"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"An autistic adolescent reports anxiety when transitioning out of school into adult life due to changes in routines and increased independence. Which developmental issue does this reflect?",
+"options":[
+"Transition challenges in adulthood",
+"Executive function regression",
+"Language acquisition deficits",
+"Sensory integration disorder"
+],
+"answerIndex":0
+},
+
+{
+"prompt":"Which statement best reflects the neurodiversity perspective discussed in the lecture?",
+"options":[
+"Autism should always be eliminated medically",
+"Autism is solely a disorder with no strengths",
+"Autism can be both a disability and part of identity",
+"Autism only affects childhood functioning"
+],
+"answerIndex":2
+},
+
+{
+"prompt":"Which strength is commonly reported among many individuals with ASD?",
+"options":[
+"Strong long-term memory for detailed information",
+"Superior emotional recognition",
+"Universal verbal giftedness",
+"Complete immunity to anxiety"
+],
+"answerIndex":0
+}
+
+]
+}

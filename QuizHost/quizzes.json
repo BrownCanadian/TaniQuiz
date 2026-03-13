@@ -1,29 +1,19 @@
 {
   "quizzes": [
     {
-      "title": "231 MainTopics Only",
-      "file": "231_topics.json",
-      "description": "Review quiz."
-    },
-     {
-      "title": "231 Main Topics only 2",
-      "file": "231_topics2.json",
-      "description": "Review Quiz."
+      "title": "366 ADH Chapter Quiz",
+      "file": "366_adhd.json",
+      "description": "AdhdReview quiz."
     },
     {
-      "title": "231 Study Guide Big",
-      "file": "231_studyguide_big.json",
-      "description": "Midterm Style Big Quiz."
+      "title": "366 Autism Chapter Quiz",
+      "file": "366_asd.json",
+      "description": "Practice Quiz."
     },
     {
-      "title": "231 Tricky Questions",
-      "file": "231_tricky.json",
-      "description": "Tricky Questions Quiz."
-    },
-    {
-      "title": "231 theory testing",
-      "file": "231_theory_testing.json",
-      "description": "Testing theory Quiz."
+      "title": "366 Disorder Chapter Quiz",
+      "file": "366_disorder.json",
+      "description": "Practice Quiz."
     }
   ]
 }
