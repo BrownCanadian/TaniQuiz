@@ -15,6 +15,14 @@
       "file": "PSYC231_l19.json",
       "description": "2SLGBTQ+ Relationships Quiz."
     },
+    { "title": "Lecture 20 prejusidce",
+      "file": "PSYC231_l20.json",
+      "description": "Prejudice Quiz."},
+    {
+      "title":"Lecture 21 Implicit Bias",
+      "file":"PSYC231_l20.json",
+      "description":"Implicit Bias Quiz."
+    },
     {
       "title": "Lecture 22 Structural Discrimination Quiz",
       "file": "PSYC231_l22.json",
