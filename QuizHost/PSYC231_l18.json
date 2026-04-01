@@ -1,0 +1,107 @@
+{
+    "title": "PSYC 231 Lecture 18 Attachment Theory Quiz",
+    "shuffleQuestions": true,
+    "shuffleOptions": true,
+    "questions": [
+      {
+        "prompt": "In Ainsworth's Strange Situation, a securely attached infant would most likely:",
+        "options": [
+          "Ignore the caregiver completely on return",
+          "Show distress when the caregiver leaves and be comforted when they return",
+          "Cling to the caregiver the entire time and refuse all exploration",
+          "Show contradictory and fearful behaviour without a clear pattern"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "An infant who shows little outward response to the caregiver's return and tends to avoid closeness would be classified as:",
+        "options": [
+          "Secure",
+          "Anxious-ambivalent",
+          "Disorganized",
+          "Anxious-avoidant"
+        ],
+        "answerIndex": 3
+      },
+      {
+        "prompt": "Which infant pattern best matches anxious-ambivalent attachment?",
+        "options": [
+          "Comfortable exploration and easy soothing",
+          "Very clingy behaviour, distress at separation, and difficulty being comforted on reunion",
+          "No distress at departure and no interest in the caregiver's return",
+          "A balanced mix of independence and dependence"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Disorganized attachment is best described as:",
+        "options": [
+          "A secure attachment expressed differently across cultures",
+          "A pattern involving inconsistent, contradictory, or fearful behaviour",
+          "A form of healthy independence",
+          "The most common attachment style in infancy"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which adult attachment style is most associated with comfort with intimacy and dependence, without excessive fear of rejection?",
+        "options": [
+          "Secure",
+          "Dismissive avoidant",
+          "Anxious preoccupied",
+          "Disorganized"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "prompt": "A person says, 'I do not like depending on others, and I prefer not to get too emotionally close.' This best matches:",
+        "options": [
+          "Secure attachment",
+          "Dismissive avoidant attachment",
+          "Anxious preoccupied attachment",
+          "Disorganized attachment"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "A person constantly seeks reassurance, worries others do not value them as much as they value others, and craves intense emotional closeness. This best reflects:",
+        "options": [
+          "Secure attachment",
+          "Dismissive avoidant attachment",
+          "Anxious preoccupied attachment",
+          "Earned secure attachment"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "Which adult attachment pattern is most consistent with push-pull relationships and wanting closeness while also fearing being hurt?",
+        "options": [
+          "Secure",
+          "Dismissive avoidant",
+          "Disorganized",
+          "Companionate"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "Which is a criticism of attachment theory discussed in lecture?",
+        "options": [
+          "It pays too much attention to adulthood and not enough to childhood",
+          "It assumes categories that may oversimplify complex relational patterns",
+          "It rejects the role of caregivers entirely",
+          "It focuses only on peer relationships"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which criticism best captures a limitation of classic attachment theory research?",
+        "options": [
+          "It was tested equally across all cultures before making universal claims",
+          "It only applies to non-romantic relationships",
+          "It tends to claim universality despite being developed largely from one cultural context",
+          "It ignores all adult attachment findings"
+        ],
+        "answerIndex": 2
+      }
+    ]
+  }

@@ -1,0 +1,107 @@
+{
+  "title": "PSYC 231 Lecture 21 Implicit Bias Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Implicit processes are best described as:",
+      "options": [
+        "Slow and deliberate",
+        "Fast and automatic",
+        "Always accurate",
+        "Fully conscious"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which best distinguishes implicit attitudes from stereotypes?",
+      "options": [
+        "Attitudes are associations; stereotypes are evaluations",
+        "Attitudes are evaluative; stereotypes link groups with traits",
+        "Attitudes are always conscious; stereotypes are not",
+        "There is no difference"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The Implicit Association Test (IAT) primarily measures:",
+      "options": [
+        "Explicit beliefs about groups",
+        "Reaction times when pairing concepts",
+        "Long-term memory recall",
+        "Moral reasoning ability"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which limitation of the IAT was discussed in lecture?",
+      "options": [
+        "It cannot measure any bias at all",
+        "It only predicts behaviour perfectly at the individual level",
+        "It is better at predicting average group behaviour than individual behaviour",
+        "It requires written responses"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which example best reflects implicit bias in healthcare?",
+      "options": [
+        "A doctor consciously refuses to treat a patient",
+        "A doctor unknowingly spends less time with certain patients",
+        "A doctor openly expresses prejudice",
+        "A doctor follows all procedures equally"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which outcome is associated with implicit gender bias in healthcare?",
+      "options": [
+        "Faster diagnosis for women",
+        "Delayed diagnosis for certain conditions in women",
+        "Equal treatment across all genders",
+        "No measurable impact"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which best reflects implicit bias in education?",
+      "options": [
+        "Teachers consciously grading unfairly",
+        "Teachers unknowingly having different expectations for students",
+        "Students refusing to study",
+        "Schools having equal outcomes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement about implicit bias is most accurate?",
+      "options": [
+        "It only exists in people with explicit prejudice",
+        "It can exist even without conscious awareness",
+        "It has no effect on behaviour",
+        "It is fixed and cannot change"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which best explains why implicit bias forms?",
+      "options": [
+        "Genetic inheritance",
+        "Repeated associations in the environment",
+        "Conscious decision-making",
+        "Formal education alone"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Bias in AI systems can occur because:",
+      "options": [
+        "AI has no access to human data",
+        "AI systems learn from biased data and patterns",
+        "AI cannot form associations",
+        "AI is always neutral"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

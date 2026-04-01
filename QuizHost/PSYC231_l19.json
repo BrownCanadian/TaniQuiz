@@ -1,0 +1,107 @@
+{
+    "title": "PSYC 231 Lecture 19 2SLGBTQ+ Relationships Quiz",
+    "shuffleQuestions": true,
+    "shuffleOptions": true,
+    "questions": [
+      {
+        "prompt": "Script theory is most useful for explaining:",
+        "options": [
+          "Why all relationships develop identically regardless of culture",
+          "How prescribed social roles shape expectations in romantic relationships",
+          "Why attraction is determined only by biology",
+          "Why conflict is lower in all 2SLGBTQ+ relationships"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which finding about relationship formation in 2SLGBTQ+ relationships was emphasized in lecture?",
+        "options": [
+          "They never begin as friendships",
+          "They often begin as friendships before becoming romantic",
+          "They follow the exact same gendered courtship scripts as heterosexual relationships in every case",
+          "They are less likely to involve emotional intimacy"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Lecture material on domestic labour and power in 2SLGBTQ+ relationships suggests that:",
+        "options": [
+          "Equality is never valued in these relationships",
+          "Partners often value equality, even if actual divisions may not always be perfectly equal",
+          "One partner is always expected to take the traditionally feminine role",
+          "Power differences are always greater than in heterosexual relationships"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which statement is most consistent with lecture material on satisfaction and conflict in 2SLGBTQ+ relationships?",
+        "options": [
+          "They are entirely different from heterosexual relationships on all major measures",
+          "They are pretty similar on relationship satisfaction and conflict overall",
+          "They consistently show no conflict because gender scripts are absent",
+          "They are always less stable because of minority stress"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "The Minority Stress Model proposes that poor health outcomes among marginalized groups can arise because:",
+        "options": [
+          "Minority identities directly cause low relationship quality",
+          "Distal stressors can lead to proximal stressors, which together affect health and well-being",
+          "Only internal stress matters",
+          "Family support has no role in coping"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which of the following is the best example of a distal stressor in the Minority Stress Model?",
+        "options": [
+          "Internalized shame about one's identity",
+          "Anticipating rejection from others",
+          "Experiencing discrimination or victimization from society",
+          "Wanting emotional intimacy with a partner"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "Which coping response discussed in lecture would be most likely to buffer minority stress?",
+        "options": [
+          "Self-acceptance and support from chosen family",
+          "Greater adherence to rigid gender scripts",
+          "Avoiding all close relationships",
+          "Reducing partner communication"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "prompt": "Lecture material on children in 2SLGBTQ+ families most strongly suggests:",
+        "options": [
+          "Children fare worse because they lack traditional gender-role models",
+          "There is no evidence that children are inherently harmed by having 2SLGBTQ+ parents",
+          "Research is impossible because these families are too rare to study",
+          "Children do well only when raised by two-parent heterosexual households"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which statement best reflects the lecture discussion of transgender experiences in relationships?",
+        "options": [
+          "There is already more than enough research, so major questions are settled",
+          "Transition during a relationship may introduce stigma-related challenges, and partner support can matter greatly",
+          "Findings from all other relationship research definitely do not apply at all",
+          "Transgender experiences are unrelated to minority stress"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which statement best matches the lecture discussion of relationship dissolution in 2SLGBTQ+ relationships?",
+        "options": [
+          "We know everything important already, including complete long-term timelines",
+          "Relationship dissolution is impossible to compare across groups",
+          "The evidence base is still somewhat limited, including limited long-term timelines",
+          "2SLGBTQ+ couples never remain friends after breakups"
+        ],
+        "answerIndex": 2
+      }
+    ]
+  }

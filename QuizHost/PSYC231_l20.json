@@ -1,0 +1,77 @@
+{
+  "title": "PSYC 231 Lecture 20 Prejudice, Stereotyping, and Discrimination Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which belief is most consistent with just world beliefs?",
+      "options": [
+        "People usually get what they deserve",
+        "Society is fundamentally unfair",
+        "Outcomes are mostly random",
+        "All groups are treated equally"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which example best illustrates outgroup homogeneity effect?",
+      "options": [
+        "Believing your own group members are diverse but another group is all the same",
+        "Preferring your own group over others",
+        "Competing with another group for resources",
+        "Changing beliefs to fit social norms"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A teacher expects certain students to perform poorly, interacts with them less, and those students end up performing worse. This is an example of:",
+      "options": [
+        "Stereotype threat",
+        "Self-fulfilling prophecy",
+        "Implicit bias",
+        "Realistic conflict"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which situation best reflects stereotype threat?",
+      "options": [
+        "A student performs worse on a test after being reminded of a negative stereotype about their group",
+        "A student is judged unfairly by a teacher",
+        "A student believes in meritocracy",
+        "A student prefers their ingroup"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which is a cognitive source of prejudice discussed in lecture?",
+      "options": [
+        "Competition over resources",
+        "Parental attitudes",
+        "Categorization and heuristics",
+        "Institutional policies"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which best describes social dominance orientation?",
+      "options": [
+        "A desire for equality across groups",
+        "A preference for group-based hierarchies",
+        "A tendency to help outgroup members",
+        "A belief that all groups should cooperate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best reflects system justification theory?",
+      "options": [
+        "People are motivated to challenge unfair systems",
+        "People prefer their ingroup over all others",
+        "People are motivated to justify and defend existing social systems",
+        "People always act rationally"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

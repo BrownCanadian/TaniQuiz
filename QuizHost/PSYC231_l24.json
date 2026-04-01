@@ -1,0 +1,107 @@
+{
+  "title": "PSYC 231 Lecture 23 Racism and Sexism Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which statement best reflects the idea that race is a social construct?",
+      "options": [
+        "Race is determined purely by biology",
+        "Race categories are created and maintained by society",
+        "Race has no impact on lived experiences",
+        "Race is identical across all cultures"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Racial essentialism refers to the belief that:",
+      "options": [
+        "Race is irrelevant to identity",
+        "Racial groups have fixed, inherent traits",
+        "Race is entirely fluid and changing",
+        "All groups are treated equally"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best reflects intersectionality?",
+      "options": [
+        "Studying gender alone",
+        "Studying race alone",
+        "Understanding how multiple identities interact to shape experiences",
+        "Comparing individuals within one group only"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which is an example of benevolent sexism?",
+      "options": [
+        "Women are manipulative and untrustworthy",
+        "Women should be cherished and protected by men",
+        "Women are less intelligent than men",
+        "Women should not work"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which is an example of hostile sexism?",
+      "options": [
+        "Women are pure and should be protected",
+        "Women are nurturing and caring",
+        "Women are trying to control men",
+        "Women deserve respect"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "According to system justification theory, which group may show outgroup favoritism?",
+      "options": [
+        "Only high-status groups",
+        "Only low-status groups",
+        "Both high- and low-status groups",
+        "No groups ever show it"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Compensatory stereotypes are best described as:",
+      "options": [
+        "Stereotypes that fully eliminate bias",
+        "Stereotypes that balance negative traits with positive ones",
+        "Stereotypes that are always accurate",
+        "Stereotypes based only on biology"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best reflects environmental racism?",
+      "options": [
+        "Equal access to clean water across communities",
+        "Marginalized groups being exposed to higher levels of environmental hazards",
+        "Personal dislike of a neighborhood",
+        "Random pollution distribution"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which dimension pair is central to the warmth and competence model?",
+      "options": [
+        "Power and status",
+        "Warmth and competence",
+        "Emotion and logic",
+        "Bias and discrimination"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which group is typically perceived as high warmth but low competence in the warmth-competence model?",
+      "options": [
+        "High-status ingroups",
+        "Feminists",
+        "Housewives or people with disabilities",
+        "Outgroups seen as threats"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

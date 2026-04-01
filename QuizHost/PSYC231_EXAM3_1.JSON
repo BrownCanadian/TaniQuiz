@@ -1,0 +1,367 @@
+{
+  "title": "PSYC 231 Exam 3 Cumulative Hard Quiz 1",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "A student begins liking someone in their seminar mostly because they sit nearby every week and have many low-stakes interactions, even though they know little else about them. This is best explained by:",
+      "options": [
+        "Social exchange theory",
+        "Mere exposure and proximity",
+        "Growth beliefs",
+        "Positive illusions"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which scenario best illustrates responsiveness in a romantic relationship?",
+      "options": [
+        "A partner notices distress, responds supportively, and the other person feels understood",
+        "A partner gives advice immediately without checking whether it is wanted",
+        "A partner stays because there are no alternatives",
+        "A partner avoids conflict by changing the topic"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A couple remains together mainly because breaking up would be financially difficult and they share a lease, even though satisfaction is low. This is most directly captured by:",
+      "options": [
+        "Similarity and mutual liking",
+        "Barriers to leaving in social exchange theory",
+        "Secure attachment",
+        "Companionate love"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A person believes that conflict means the relationship was never meant to be and immediately questions the entire relationship after one serious disagreement. This best reflects:",
+      "options": [
+        "Growth beliefs",
+        "Positive illusions",
+        "Destiny beliefs",
+        "Loyalty"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which response to distress is passive but constructive?",
+      "options": [
+        "Voice",
+        "Exit",
+        "Loyalty",
+        "Neglect"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "During an argument, one partner says, \"You never think about anyone but yourself,\" rather than describing a specific behaviour. Gottman would classify this as:",
+      "options": [
+        "Stonewalling",
+        "Criticism",
+        "Contempt",
+        "Voice"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the Strange Situation, an infant who explores, becomes upset when the caregiver leaves, and is soothed when the caregiver returns is showing:",
+      "options": [
+        "Secure attachment",
+        "Anxious-avoidant attachment",
+        "Disorganized attachment",
+        "Anxious-ambivalent attachment"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "An adult says, \"I want closeness, but I find it hard to trust people and worry I will get hurt if I let them in.\" This most closely matches:",
+      "options": [
+        "Secure attachment",
+        "Dismissive avoidant attachment",
+        "Disorganized attachment",
+        "Companionate love"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which criticism of attachment theory was emphasized in lecture?",
+      "options": [
+        "It focuses too much on peer influence in adolescence",
+        "It may oversimplify people into categories and make broad universal claims from limited cultural contexts",
+        "It ignores caregiver-child relationships",
+        "It only applies to infants and has no adult relevance"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Script theory is especially useful for understanding 2SLGBTQ+ relationships because it highlights:",
+      "options": [
+        "How prescribed roles shape relationships and what happens when people do not fit them",
+        "Why these relationships are entirely conflict-free",
+        "Why all relationships are biologically determined",
+        "Why minority stress only affects individuals outside relationships"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which finding is most consistent with the lecture on 2SLGBTQ+ relationships?",
+      "options": [
+        "Relationship satisfaction is entirely different from heterosexual couples",
+        "Children in these families show inherent developmental problems",
+        "Many patterns are broadly similar, while minority stress can create unique challenges",
+        "Domestic labour is always divided unequally"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A distal stressor in the Minority Stress Model would be:",
+      "options": [
+        "Internalized shame",
+        "Expectation of rejection",
+        "Experiencing discrimination and victimization",
+        "Seeking reassurance from a partner"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which option best distinguishes prejudice, stereotyping, and discrimination?",
+      "options": [
+        "Prejudice is behaviour, stereotyping is law, discrimination is cognition",
+        "Prejudice is attitude, stereotyping is cognition, discrimination is behaviour",
+        "Prejudice is implicit only, stereotyping is explicit only, discrimination is structural only",
+        "They all describe the same process"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Two student groups become hostile only after they are told there is one prize and only one group can win it. This pattern is best explained by:",
+      "options": [
+        "Realistic group conflict theory",
+        "Mere categorization",
+        "Positive illusions",
+        "Attachment insecurity"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A person prefers their randomly assigned team almost immediately, even though no competition exists. This finding most strongly supports:",
+      "options": [
+        "System justification theory",
+        "Social identity theory",
+        "Contact theory",
+        "Just world beliefs"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best reflects a hierarchy-enhancing legitimizing myth?",
+      "options": [
+        "Groups at the bottom deserve the same outcomes as groups at the top",
+        "Social hierarchies are unfair and should be challenged",
+        "It is natural and good for some groups to be above others",
+        "All inequality results from random chance"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A person insists that poor people remain poor because they must not have worked hard enough. This most directly reflects:",
+      "options": [
+        "Perspective-taking",
+        "Just world beliefs and victim blame",
+        "Contact mechanisms",
+        "Mutual liking"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best demonstrates outgroup homogeneity?",
+      "options": [
+        "Thinking your friend group is diverse but another group is basically all alike",
+        "Assuming your own group is morally superior",
+        "Feeling anxious in a new social setting",
+        "Wanting equal status contact"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "When awareness of a negative stereotype causes underperformance on a relevant task, this is called:",
+      "options": [
+        "Attributional ambiguity",
+        "Stereotype threat",
+        "Social exchange",
+        "Reconceptualization"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Implicit attitudes differ from implicit stereotypes because implicit attitudes are primarily:",
+      "options": [
+        "Evaluations, whereas stereotypes link groups with traits",
+        "Always accurate, whereas stereotypes are not",
+        "Conscious, whereas stereotypes are unconscious",
+        "Only relevant in healthcare"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which criticism of the IAT was discussed in lecture?",
+      "options": [
+        "It cannot be based on response latency",
+        "It is best at predicting any one person's behaviour with certainty",
+        "It is relative and tends to predict aggregate behaviour better than individual behaviour",
+        "It only measures explicit bias"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A physician unknowingly spends less time educating patients with larger bodies and provides less preventive care. This is most consistent with:",
+      "options": [
+        "Explicit policy discrimination only",
+        "Implicit weight bias in healthcare",
+        "Secure attachment",
+        "Common ingroup identity"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which educational finding best fits the lecture on implicit bias?",
+      "options": [
+        "Teacher expectations and stereotypes can shape student outcomes",
+        "Implicit bias disappears in schools because grading is objective",
+        "Bias only matters in post-secondary settings",
+        "Teacher race and beliefs never matter"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "The claim that race categories are socially created rather than reflecting fixed natural divisions is central to:",
+      "options": [
+        "Racial essentialism",
+        "Social construction of race",
+        "Biological essentialism",
+        "System attenuation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best illustrates intersectionality?",
+      "options": [
+        "Analyzing racism and sexism as fully separate and unrelated experiences",
+        "Assuming one identity is always more important than all others",
+        "Examining how race and gender interact to shape distinct experiences of discrimination",
+        "Comparing only two men from the same social group"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The statement \"Women should be cherished and protected by men\" is most clearly an example of:",
+      "options": [
+        "Hostile sexism",
+        "Benevolent sexism",
+        "Gender neutrality",
+        "Invariance hypothesis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pattern best fits the warmth-competence model category described as paternalistic prejudice?",
+      "options": [
+        "Low warmth, high competence",
+        "High warmth, low competence",
+        "High warmth, high competence",
+        "Low warmth, low competence"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best fits environmental racism?",
+      "options": [
+        "Toxic facilities and environmental hazards disproportionately affecting marginalized communities",
+        "A person disliking nature preserves",
+        "General interpersonal prejudice without a policy dimension",
+        "Equal exposure to pollution across all neighbourhoods"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Structural discrimination differs from individual prejudice because it involves:",
+      "options": [
+        "Only conscious dislike",
+        "Laws, policies, norms, and institutions that systematically disadvantage groups",
+        "Only random isolated incidents",
+        "Temporary emotions during conflict"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A workplace has no rule targeting mothers, but promotion decisions systematically penalize employees who take parental leave. This is best classified as:",
+      "options": [
+        "Direct structural discrimination",
+        "Indirect structural discrimination",
+        "Secure-base behaviour",
+        "Common goal cooperation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best distinguishes equality from equity?",
+      "options": [
+        "Equality distributes resources based on need, equity gives everyone the same thing",
+        "Equality means identical treatment, equity accounts for differing barriers and needs",
+        "They are interchangeable concepts",
+        "Equity ignores justice"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to system justification theory, people from disadvantaged groups may sometimes:",
+      "options": [
+        "Reject all stereotypes about their own group automatically",
+        "Show outgroup favoritism or internalize system-justifying beliefs",
+        "Be unable to perceive inequality",
+        "Always endorse hierarchy-attenuating myths"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of Allport's optimal conditions is most clearly present when two groups must combine resources to succeed at the same task?",
+      "options": [
+        "Intergroup cooperation toward common goals",
+        "Outgroup homogeneity",
+        "Distinctiveness",
+        "Hostile sexism"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "The Robbers Cave findings are most important for showing that:",
+      "options": [
+        "Contact alone always reduces prejudice",
+        "Competition can create conflict and superordinate goals can reduce it",
+        "Social identity is irrelevant when resources are scarce",
+        "Institutional support is unnecessary"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which proposed mechanism helps explain why intergroup contact can reduce prejudice?",
+      "options": [
+        "Increasing symbolic threat",
+        "Decreasing anxiety and encouraging perspective-taking",
+        "Strengthening rigid ingroup boundaries",
+        "Raising hierarchy-enhancing myths"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A major criticism of contact theory is that it can:",
+      "options": [
+        "Assume prejudice reduction is equally easy in all power contexts and place burden on marginalized groups",
+        "Only apply to friendships",
+        "Ignore cooperation entirely",
+        "Require no institutional support"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

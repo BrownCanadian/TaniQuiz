@@ -1,0 +1,107 @@
+{
+  "title": "PSYC 231 Lecture 22 Structural Discrimination Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Structural discrimination is best defined as:",
+      "options": [
+        "Individual prejudice only",
+        "Bias in personal attitudes",
+        "Discrimination embedded in laws, policies, and social norms",
+        "Random unfair treatment"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which level of the social ecological model includes laws and policies?",
+      "options": [
+        "Individual",
+        "Microsystem",
+        "Macrosystem",
+        "Mesosystem"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which example best represents direct structural discrimination?",
+      "options": [
+        "Hiring bias based on name",
+        "Segregation laws",
+        "Unspoken workplace norms",
+        "Unequal outcomes without explicit rules"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best represents indirect structural discrimination?",
+      "options": [
+        "Explicit bans on voting",
+        "Laws that appear neutral but disadvantage certain groups",
+        "Legal segregation",
+        "Slavery"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which scenario best reflects equity (rather than equality)?",
+      "options": [
+        "Everyone receives the same resources regardless of need",
+        "Resources are distributed based on individual needs",
+        "Everyone is treated identically",
+        "No resources are distributed"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best illustrates structural discrimination in employment?",
+      "options": [
+        "A manager dislikes a specific employee",
+        "Hiring practices that disadvantage applicants based on their names",
+        "A coworker makes a rude comment",
+        "An employee quits their job"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best reflects structural discrimination in housing?",
+      "options": [
+        "A landlord dislikes a tenant personally",
+        "Policies that result in unequal home ownership across groups",
+        "A tenant damages property",
+        "A family moves voluntarily"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example best reflects structural discrimination in criminal justice?",
+      "options": [
+        "One officer behaves unfairly",
+        "Disproportionate policing of certain groups",
+        "A person commits a crime",
+        "A judge follows all laws equally"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement about structural discrimination is most accurate?",
+      "options": [
+        "It only exists in the past",
+        "It is always intentional and explicit",
+        "It can persist through policies and norms even without explicit intent",
+        "It only affects individuals, not groups"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which distinction is correct?",
+      "options": [
+        "Equality ensures fair outcomes for all groups",
+        "Equity accounts for differences in need and context",
+        "Justice and equality mean the same thing",
+        "Equity ignores systemic barriers"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

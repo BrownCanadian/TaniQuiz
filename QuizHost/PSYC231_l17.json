@@ -1,0 +1,107 @@
+
+  {  "title": "PSYC 231 Lecture 17 Liking and Love Quiz",
+    "shuffleQuestions": true,
+    "shuffleOptions": true,
+    "questions": [
+      {
+        "prompt": "Which situation best illustrates the mere exposure effect?",
+        "options": [
+          "A student becomes more attracted to a classmate after repeatedly seeing them in lectures",
+          "A student is attracted to someone only after learning they have similar values",
+          "A student falls in love after one intense conversation",
+          "A student likes someone because their friends approve of them"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "prompt": "Which finding is most consistent with lecture material on similarity and attraction?",
+        "options": [
+          "Opposites usually attract most in long-term relationships",
+          "Similarity in attitudes and values tends to increase liking",
+          "Physical attractiveness matters only at the start of dating",
+          "People prefer partners with completely different self-esteem levels"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "A person notices their partner is stressed, listens carefully, and responds in a way that makes the partner feel understood and cared for. This best reflects:",
+        "options": [
+          "Social exchange",
+          "Companionate love",
+          "Responsiveness",
+          "Positive illusions"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "According to Sternberg-style distinctions discussed in lecture, a relationship high in passion and intimacy but low in commitment would be best described as:",
+        "options": [
+          "Romantic love",
+          "Companionate love",
+          "Fatuous love",
+          "Empty love"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "prompt": "Which person is most likely to remain in a relationship according to Social Exchange Theory?",
+        "options": [
+          "Someone with low satisfaction, few barriers to leaving, and many attractive alternatives",
+          "Someone with high satisfaction, strong barriers to leaving, and few attractive alternatives",
+          "Someone with low commitment but many attractive alternatives",
+          "Someone whose only reason for staying is physical proximity"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "A student insists that their partner is more thoughtful, funnier, and more considerate than everyone else thinks, and this belief is associated with high relationship satisfaction. This is most consistent with:",
+        "options": [
+          "Stereotype threat",
+          "Negative reciprocity",
+          "Positive illusions",
+          "Destiny beliefs"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "Which response to relationship distress is active and constructive?",
+        "options": [
+          "Voice",
+          "Neglect",
+          "Exit",
+          "Loyalty"
+        ],
+        "answerIndex": 0
+      },
+      {
+        "prompt": "A person believes that good relationships are built through effort, repair, and learning from conflict rather than being naturally perfect from the start. This best reflects:",
+        "options": [
+          "Destiny beliefs",
+          "Growth beliefs",
+          "Positive illusions",
+          "Halo effect"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "prompt": "Which behaviour would Gottman most likely classify as contempt?",
+        "options": [
+          "Telling a partner, 'I felt hurt when you ignored me at dinner'",
+          "Refusing to speak for 20 minutes to calm down and then returning to talk",
+          "Rolling one's eyes and mocking a partner during an argument",
+          "Disagreeing with a partner about finances"
+        ],
+        "answerIndex": 2
+      },
+      {
+        "prompt": "Which statement is most supported by lecture material on relationship satisfaction over time?",
+        "options": [
+          "Satisfaction always drops steadily and never improves",
+          "Communication, intimacy, and need fulfillment can help maintain relationships over time",
+          "Passion is the only factor that predicts long-term satisfaction",
+          "Once couples begin fighting, dissolution is inevitable"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  }

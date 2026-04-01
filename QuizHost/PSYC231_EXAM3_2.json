@@ -1,0 +1,357 @@
+{
+  "title": "PSYC 231 Exam 3 Cumulative Hard Quiz 2",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which statement is most consistent with the lecture treatment of physical attractiveness?",
+      "options": [
+        "Attractiveness is entirely objective and universal",
+        "Attractiveness is shaped by social norms and systemic factors as well as perceived desirability",
+        "Attractiveness matters only after commitment forms",
+        "Attractiveness has no relation to first impressions"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The matching phenomenon suggests that people often:",
+      "options": [
+        "Prefer partners who differ maximally in attractiveness",
+        "Pair with others who are similar in perceived attractiveness",
+        "Ignore attractiveness once similarity is known",
+        "Choose partners only based on proximity"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A relationship characterized by high commitment but relatively low passion and intimacy is best described as:",
+      "options": [
+        "Romantic love",
+        "Companionate love",
+        "Empty love",
+        "Consummate love"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which statement best fits positive illusions in relationships?",
+      "options": [
+        "Accurately noticing every flaw in a partner improves satisfaction",
+        "Some idealization of a partner can be associated with relationship satisfaction",
+        "Positive illusions require self-deception about abuse",
+        "Positive illusions and growth beliefs are identical"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which response to conflict is active and destructive?",
+      "options": [
+        "Loyalty",
+        "Voice",
+        "Exit",
+        "Neglect"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A partner responds to criticism by saying, \"Well, you do the exact same thing,\" instead of taking responsibility. Gottman would most likely label this:",
+      "options": [
+        "Contempt",
+        "Defensiveness",
+        "Stonewalling",
+        "Responsiveness"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which infant pattern best fits anxious-avoidant attachment?",
+      "options": [
+        "Clingy exploration and difficulty being soothed",
+        "Ignoring or avoiding the caregiver on reunion",
+        "Comfortable exploration and easy soothing",
+        "Fearful contradictory behaviour"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "An anxious-preoccupied adult is most likely to show:",
+      "options": [
+        "Comfort with dependence and independence",
+        "Strong desire for closeness combined with insecurity and approval seeking",
+        "Preference for emotional distance and self-sufficiency",
+        "No concern about rejection"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which criticism of attachment theory is least consistent with the lecture?",
+      "options": [
+        "It may oversimplify people into fixed types",
+        "It often emphasizes early childhood strongly",
+        "It was largely developed from one cultural context",
+        "It has never been applied to adult relationships at all"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "Which statement is most supported regarding 2SLGBTQ+ relationship formation?",
+      "options": [
+        "These relationships always follow traditional heterosexual dating scripts",
+        "They may begin as friendships and may not fit prescribed gendered scripts neatly",
+        "They avoid all social pressures related to scripts",
+        "They are less likely to involve commitment"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Chosen family is especially relevant in the 2SLGBTQ+ lecture because it can:",
+      "options": [
+        "Replace all forms of stress automatically",
+        "Serve as a coping resource in the face of minority stress",
+        "Eliminate structural discrimination",
+        "Prevent all relationship dissolution"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best matches the lecture on transgender experiences in relationships?",
+      "options": [
+        "There is abundant research and few unanswered questions",
+        "Transition within a relationship may involve stigma-related challenges, and partner support can be important",
+        "Minority stress does not apply",
+        "Other relationship findings can never apply"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of the following is the best example of stereotyping without discrimination?",
+      "options": [
+        "Assuming a certain group is bad at math",
+        "Refusing to rent to someone because of their group",
+        "Feeling fear toward an outgroup",
+        "Designing a biased policy"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Parental attitudes, religion, and conformity were discussed in lecture as mainly:",
+      "options": [
+        "Cognitive sources of prejudice",
+        "Motivational sources of prejudice",
+        "Social sources of prejudice",
+        "Contact mechanisms"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which concept best explains why rare or attention-grabbing pairings can create illusory relationships?",
+      "options": [
+        "Distinctiveness in categorization",
+        "Secure attachment",
+        "Companionate love",
+        "Institutional support"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A hiring manager expects women to be less competent in a technical role, gives them less encouragement, and then interprets weaker interviews as confirming the stereotype. This is best understood as:",
+      "options": [
+        "A self-perpetuating stereotype process",
+        "Optimal contact",
+        "Mutual liking",
+        "Loyalty"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which statement about implicit bias is most accurate according to lecture?",
+      "options": [
+        "It requires deliberate intent",
+        "It can operate automatically without introspective access",
+        "It predicts all behaviour strongly at the individual level",
+        "It only concerns racial attitudes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The traditional IAT is limited partly because it:",
+      "options": [
+        "Cannot compare categories",
+        "Measures only absolute liking for one group",
+        "Is relative and usually compares two categories at a time",
+        "Cannot use reaction times"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which healthcare pattern best fits lecture material on implicit gender bias?",
+      "options": [
+        "Women's symptoms always being overinterpreted as cardiac",
+        "Delayed diagnosis when psychological symptoms lead providers away from other explanations",
+        "No gender differences in diagnostic judgment",
+        "Bias appearing only among non-physicians"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the AI section, the lecture emphasized that large language models can:",
+      "options": [
+        "Be explicitly unbiased and therefore free of biased associations",
+        "Still form biased associations even when explicitly trained to avoid bias",
+        "Only reflect individual programmer prejudice and nothing else",
+        "Never display gendered or racialized patterns"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement is most inconsistent with the social construction view of gender presented in lecture?",
+      "options": [
+        "Gender is shaped by social systems and expectations",
+        "Gender relates to, but is not reducible to, biology and reproduction",
+        "Gender categories and roles are historically and culturally situated",
+        "Gender is fixed entirely by biology and unaffected by social context"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "Patriarchy was described in lecture primarily as:",
+      "options": [
+        "A personal attitude held by some men only",
+        "A social system that organizes power in gendered ways across institutions",
+        "The same thing as benevolent sexism only",
+        "A concept unrelated to violence or paid work"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best captures ambivalent sexism?",
+      "options": [
+        "Only hostility toward women",
+        "A combination of hostile and benevolent sexism",
+        "Neutrality toward gender roles",
+        "Sexism aimed only at men"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A stereotype that portrays a marginalized group as warm but incompetent can help maintain inequality by seeming positive while still limiting status. This is most closely related to:",
+      "options": [
+        "Compensatory stereotypes and paternalistic prejudice",
+        "Growth beliefs",
+        "Direct structural discrimination",
+        "Mere exposure"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which of the following is the clearest example of direct structural discrimination?",
+      "options": [
+        "A formally stated law prohibiting a group from voting",
+        "An informal social norm that advantages some applicants",
+        "A neutral rule that has unequal effects",
+        "A teacher's unconscious bias"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which of the following is the clearest example of indirect structural discrimination?",
+      "options": [
+        "A policy explicitly naming a targeted group",
+        "A formally announced segregation law",
+        "A neutral-seeming policy whose application disadvantages certain groups",
+        "A single insulting comment"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In the social ecological model, social norms and institutions affecting whole communities are located mainly at the:",
+      "options": [
+        "Individual level only",
+        "Community and societal levels",
+        "Dyadic level only",
+        "Biological level only"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The invariance hypothesis in social dominance theory concerns the idea that:",
+      "options": [
+        "People high in SDO always prefer equality",
+        "Group-based hierarchy shows recurring patterns across contexts",
+        "All stereotypes are biologically fixed",
+        "Institutional support does not matter"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement best reflects a hierarchy-attenuating legitimizing myth?",
+      "options": [
+        "Some groups belong on top",
+        "Inequality is natural and necessary",
+        "Lower-status groups are just as deserving as higher-status groups",
+        "Merit always explains outcomes"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In contact theory, equal status means equal status:",
+      "options": [
+        "In society as a whole, regardless of the interaction",
+        "Within the contact situation itself",
+        "Only after friendship has already formed",
+        "Only when groups are identical"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Why was Robbers Cave important for contact theory?",
+      "options": [
+        "It showed prejudice disappears with exposure alone",
+        "It demonstrated both the creation of intergroup hostility through competition and its reduction through cooperation",
+        "It disproved the importance of group identity",
+        "It showed unequal status is best for cooperation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which set lists Allport's optimal conditions most accurately?",
+      "options": [
+        "Equal status, common goals, intergroup cooperation, institutional support",
+        "Similarity, attraction, mutual liking, self-esteem",
+        "Passion, intimacy, commitment, loyalty",
+        "Competition, distinction, anxiety, conformity"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "A school restructures group work so students from different backgrounds rely on one another to complete a shared task and teachers actively support the process. This intervention is most directly based on:",
+      "options": [
+        "Stereotype threat",
+        "Jigsaw classroom principles from contact theory",
+        "Social exchange theory",
+        "Benevolent sexism"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "One criticism of contact theory is that even successful contact can:",
+      "options": [
+        "Always eliminate structural inequality",
+        "Leave larger systems of power unchallenged",
+        "Work only under competition",
+        "Require outgroup homogeneity"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which mixed example is matched correctly?",
+      "options": [
+        "\"People like us deserve more\" -> hierarchy-attenuating myth",
+        "\"I know she is upset and I want her to feel heard\" -> responsiveness",
+        "\"They all act the same\" -> intersectionality",
+        "\"Women are dangerous liars\" -> benevolent sexism"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
