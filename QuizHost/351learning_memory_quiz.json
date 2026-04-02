@@ -1,0 +1,157 @@
+{
+  "title": "Learning and Memory Lecture Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "According to the lecture, memory is best described as:",
+      "options": [
+        "A single storage bin for all past experiences",
+        "A group of mechanisms by which experience changes brains and behaviour",
+        "A process limited to conscious recall",
+        "A synonym for attention"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example most clearly reflects non-declarative memory?",
+      "options": [
+        "Remembering what you ate this morning",
+        "Knowing the capital of France",
+        "Riding a bicycle",
+        "Recalling where you spent last summer"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In Baddeley and Hitch’s multicomponent model, the component that mediates selection and manipulation of information is the:",
+      "options": [
+        "Phonological loop",
+        "Central executive",
+        "Hippocampus",
+        "Anterior cingulate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The multicomponent model argues that maintenance is:",
+      "options": [
+        "The same process as manipulation",
+        "Separate from manipulation",
+        "Possible only for verbal information",
+        "Impossible without the hippocampus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pairing best matches the lecture’s storage formats in working memory?",
+      "options": [
+        "Visuospatial sketchpad for visual/spatial information; phonological loop for auditory/phonetic information",
+        "Phonological loop for spatial maps; visuospatial sketchpad for emotional states",
+        "Central executive for all storage; hippocampus for all manipulation",
+        "Amygdala for maintenance; dlPFC for rehearsal"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In an n-back task, increasing n primarily increases:",
+      "options": [
+        "Sensory acuity",
+        "Working memory demand",
+        "Long-term consolidation",
+        "Emotional salience"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "As n-back demand increases, activity increases in several top-down attention and cognitive control regions. Which option fits the lecture?",
+      "options": [
+        "dlPFC, FEF, IPS, SPL, mPFC",
+        "Amygdala, olfactory bulb, hypothalamus",
+        "Primary auditory cortex only",
+        "Medulla and spinal cord"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "TMS to which region impaired 3-back performance in the lecture example?",
+      "options": [
+        "Right dlPFC",
+        "Left dlPFC",
+        "Left amygdala",
+        "Posterior cingulate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A key issue in the maintenance/manipulation debate was that sustained activation during the delay period appeared strongest in:",
+      "options": [
+        "Sensory cortex alone",
+        "dlPFC and SPL",
+        "Amygdala and insula",
+        "Cerebellum and basal ganglia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The Riggal and Postle account ultimately suggested that during the delay period, maintained content is represented in:",
+      "options": [
+        "Sensory regions such as LOC, while fronto-parietal regions control maintenance",
+        "The hippocampus exclusively",
+        "Broca’s area regardless of modality",
+        "Only subcortical nuclei"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which statement best fits the activated long-term memory account discussed in lecture?",
+      "options": [
+        "Working memory can only store visual and auditory material",
+        "Any sensory modality can be actively maintained through executive influence on high-level sensory regions",
+        "Working memory and long-term memory are completely independent",
+        "The theory eliminates a role for distraction"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Patient H.M. was especially important because his case suggested that:",
+      "options": [
+        "Short-term memory depends entirely on hippocampus",
+        "Only non-declarative memory relies on hippocampus",
+        "Declarative memory depends on hippocampus, while short-term and non-declarative memory can remain intact",
+        "The hippocampus is irrelevant for memory"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The lecture described the hippocampus as especially adept at:",
+      "options": [
+        "Generating motor plans",
+        "Binding together different sensory and conceptual features of ongoing events",
+        "Detecting reward prediction errors",
+        "Controlling the HPA axis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Reconsolidation refers to the idea that once retrieved, a consolidated memory becomes briefly:",
+      "options": [
+        "Permanent and impossible to change",
+        "Unstable and malleable again",
+        "Converted into procedural memory",
+        "Independent of cortical networks"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Retrieval was described as relying in part on:",
+      "options": [
+        "The reinstatement of brain patterns present at encoding",
+        "A purely brainstem-driven process",
+        "Loss of overlap with mental simulation networks",
+        "Automatic activation of the HPA axis"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

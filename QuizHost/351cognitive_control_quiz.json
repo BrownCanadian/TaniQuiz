@@ -1,0 +1,157 @@
+{
+  "title": "Cognitive Control Lecture Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which of the following best captures cognitive control as described in lecture?",
+      "options": [
+        "A set of reflexes that bypass planning",
+        "A set of processes that supports planning and flexible goal-directed behaviour",
+        "A memory store for facts and events",
+        "A sensory filter devoted only to visual attention"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Shallice’s framework, contention scheduling is most closely associated with:",
+      "options": [
+        "Controlled processing in novel situations",
+        "Automatic activation of action scripts by stimuli",
+        "Emotional evaluation of errors",
+        "Long-term maintenance of task goals"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The supervisory attentional system is especially needed when a person is:",
+      "options": [
+        "Doing a well-practiced routine",
+        "Facing a novel situation that requires flexibility",
+        "Responding to a spinal reflex",
+        "Performing a purely sensory discrimination with no rule change"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A patient with frontal lobe damage can complete routine tasks but struggles in new situations, repeats actions, and shows environmental dependency. This pattern most strongly suggests impairment of the:",
+      "options": [
+        "Phonological loop",
+        "Supervisory attentional system",
+        "Somatosensory cortex",
+        "Hippocampal formation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of the following is NOT one of the five goal-directed behaviours emphasized in lecture?",
+      "options": [
+        "Sequencing",
+        "Task shifting",
+        "Consolidation",
+        "Inhibition"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Initiation refers to:",
+      "options": [
+        "Reflecting on whether a just-completed response was correct",
+        "The will to start a behaviour",
+        "Stopping a dominant response",
+        "Switching between rules after negative feedback"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Difficulty both starting actions and ceasing repetitive behaviours after frontal damage was referred to as:",
+      "options": [
+        "Prosopagnosia",
+        "Psychological inertia",
+        "Anterograde amnesia",
+        "Allesthesia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the apple-tree cost-benefit task discussed under initiation, participants decide whether to act after seeing cues for:",
+      "options": [
+        "Reward magnitude and required effort",
+        "Reward magnitude and delay discounting only",
+        "Emotional valence and arousal",
+        "Accuracy and response deadline"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In the Wisconsin Card Sorting Task, frontal patients often know the current sorting rule is wrong yet continue using it. This is best described as:",
+      "options": [
+        "Semantic intrusion",
+        "Perseveration",
+        "Retroactive interference",
+        "Habituation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A task in which the examiner switches the sorting rule from color to number to shape primarily measures:",
+      "options": [
+        "Self-monitoring",
+        "Task shifting",
+        "Initiation",
+        "Motor sequencing only"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the flanker task, an indicator of self-monitoring is:",
+      "options": [
+        "Faster responses after errors",
+        "Post-error slowing",
+        "Reduced activity in salience regions after mistakes",
+        "An inability to represent conflict"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pattern is most characteristic of incongruent flanker trials relative to congruent trials?",
+      "options": [
+        "They are faster and more accurate",
+        "They are slower and more error-prone",
+        "They eliminate the need for monitoring",
+        "They depend mainly on episodic memory"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Inhibition is best defined as the ability to:",
+      "options": [
+        "Store rules over long delays",
+        "Stop actions that would interfere with the goal",
+        "Generate more response options",
+        "Retrieve semantic knowledge under pressure"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to the lecture summary, monitoring relies especially on which regions/network?",
+      "options": [
+        "ACC and insula; salience network",
+        "Hippocampus and temporal pole; default mode network",
+        "Primary motor cortex; corticospinal tract",
+        "Amygdala and hypothalamus; HPA axis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which region/network pairing is most consistent with the lecture’s 'most valuable players' for cognitive control?",
+      "options": [
+        "dlPFC with fronto-parietal control functions",
+        "Olfactory bulb with salience detection",
+        "Cerebellum with episodic binding",
+        "Anterior thalamus with language production"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

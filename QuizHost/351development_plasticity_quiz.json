@@ -1,0 +1,157 @@
+{
+  "title": "Development and Plasticity Lecture Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Neurulation refers to the:",
+      "options": [
+        "Formation of synapses after birth",
+        "Establishment of neural tissue as the neural plate becomes the neural tube",
+        "Migration of neurons along radial glia",
+        "Onset of myelination in the corpus callosum"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The neural tube will eventually form the:",
+      "options": [
+        "Amygdala and hippocampus only",
+        "Ventricles and spinal canal",
+        "Somatosensory cortex only",
+        "Peripheral nerves"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "At the neurulation stage, the embryo is referred to as a:",
+      "options": [
+        "Blastula",
+        "Neurula",
+        "Zygote",
+        "Gastrula"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Neurogenesis during development occurs prominently in the:",
+      "options": [
+        "Periventricular zone",
+        "Amygdala",
+        "Cingulate sulcus",
+        "Corpus callosum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "During migration, neurons travel along:",
+      "options": [
+        "Corticospinal axons",
+        "Radial glial cell bodies/branches",
+        "Blood vessels",
+        "The corpus callosum"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement about cortical migration is true?",
+      "options": [
+        "Earlier-born neurons settle furthest from the ventricles and youngest cells occupy deeper layers",
+        "Each wave of neurons migrates farther from the ventricles, so younger cells end up in more outer layers",
+        "Neurons migrate only after birth",
+        "Migration occurs independently of glial guidance"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Synaptogenesis in early development is characterized by a:",
+      "options": [
+        "Small reduction in synapses from the start",
+        "Massive roughly ten-fold increase in synapse number",
+        "Complete dependence on formal schooling",
+        "Process limited to the prefrontal cortex"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What happens to synapses over time according to the lecture?",
+      "options": [
+        "Unused synapses strengthen and active synapses are pruned",
+        "Active synapses thrive while inactive ones deteriorate and are pruned",
+        "All synapses are retained into adulthood",
+        "Pruning happens only after age 30"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The lecture emphasized that pruning occurs earliest in which type of region?",
+      "options": [
+        "Prefrontal cortex",
+        "Association cortex",
+        "Somatosensory cortex",
+        "Medial temporal lobe"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which ordering best matches the developmental progression of pruning across regions?",
+      "options": [
+        "Prefrontal cortex → association cortices → somatosensory",
+        "Somatosensory → association cortices → prefrontal cortex",
+        "Association cortices → somatosensory → prefrontal cortex",
+        "All regions prune at the same time"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "At birth, the brain is relatively:",
+      "options": [
+        "Overmyelinated",
+        "Unmyelinated",
+        "Fully pruned",
+        "Independent of white matter changes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which region was described as myelinating for a very long time, potentially into the 20s?",
+      "options": [
+        "Corpus callosum and PFC white matter",
+        "Primary visual cortex only in infancy",
+        "Amygdala gray matter",
+        "Olfactory bulb"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Experience-expectant systems are best described as neural systems that:",
+      "options": [
+        "Depend on idiosyncratic experiences and are unnecessary for typical development",
+        "Respond to nearly universal inputs needed for normal development",
+        "Develop completely without environmental input",
+        "Are limited to adult learning"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of the following is an example of experience-dependent plasticity from the lecture?",
+      "options": [
+        "Binocular vision",
+        "Basic language exposure",
+        "Musical training",
+        "Neural tube formation"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A sensitive period was described as a time when organisms are especially responsive to certain inputs. The lecture’s example was that second-language learning before about age 6 is associated with:",
+      "options": [
+        "Guaranteed bilingualism regardless of exposure",
+        "Language abilities comparable to native speakers",
+        "No later decline in performance with age of arrival",
+        "Purely procedural learning with no cortical involvement"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "Social Cognition Lecture Quiz",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "The lecture organized emotions along which two broad dimensions?",
+      "options": [
+        "Valence and arousal",
+        "Accuracy and speed",
+        "Pleasure and memory",
+        "Dominance and handedness"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which philosopher was presented as arguing that reason is 'the slave of the passions'?",
+      "options": [
+        "Socrates",
+        "Blaise Pascal",
+        "David Hume",
+        "Stoic philosophers collectively"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which claim best matches the lecture’s definition of emotion?",
+      "options": [
+        "Emotion is purely bodily physiology with no cognitive role",
+        "Emotion is subjective, physiological, displayed behaviourally, interacts with cognition, and is social",
+        "Emotion is identical to logic",
+        "Emotion exists independently of culture and communication"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The original Papez circuit included all of the following EXCEPT:",
+      "options": [
+        "Hypothalamus",
+        "Hippocampus",
+        "Anterior thalamus",
+        "Olfactory bulb"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "The lecture emphasized that the limbic system is now thought to have developed more for managing:",
+      "options": [
+        "Language syntax",
+        "Stress responses",
+        "Voluntary motor sequencing",
+        "Visual depth perception"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the HPA axis, the hypothalamus first releases:",
+      "options": [
+        "ACTH",
+        "Cortisol",
+        "CRH",
+        "Dopamine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In the HPA axis, hormones released into the blood ultimately influence the release of:",
+      "options": [
+        "Cortisol and adrenaline",
+        "Melatonin and insulin",
+        "Acetylcholine and GABA",
+        "Oxytocin and vasopressin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "According to the lecture, the hypothalamus receives key threat-related input from the:",
+      "options": [
+        "Amygdala",
+        "Hippocampus",
+        "Primary visual cortex",
+        "Corpus callosum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "The amygdala was described as playing an important role in:",
+      "options": [
+        "Detecting emotional information and learning emotional significance or reward",
+        "Language comprehension and speech production",
+        "Myelination of frontal white matter",
+        "Declarative consolidation only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Damage to the amygdala would most likely lead to which pattern?",
+      "options": [
+        "Improved detection of angry faces in crowds",
+        "Judging unfamiliar faces as more trustworthy",
+        "Better fear conditioning",
+        "Enhanced attention to the eyes and mouth"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In monkeys, extensive amygdala damage was associated with Kluver-Bucy syndrome, which includes:",
+      "options": [
+        "Selective verbal deficits only",
+        "Indiscriminate ingestion and inappropriate sexual behaviour",
+        "Loss of phoneme discrimination",
+        "Inability to form long-range functional connections"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A neutral stimulus begins to elicit fear after repeated pairing with a noxious stimulus. This paradigm is called:",
+      "options": [
+        "Reconsolidation",
+        "Fear conditioning",
+        "Perceptual narrowing",
+        "Task shifting"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Theory of mind refers to the ability to:",
+      "options": [
+        "Suppress emotional responses to threat",
+        "Represent other people’s mental states as separate from one’s own",
+        "Maintain items over short delays",
+        "Encode episodic details into semantic memory"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which set of regions was highlighted as especially relevant to theory of mind?",
+      "options": [
+        "TPJ, temporal poles, superior temporal sulcus, mPFC",
+        "dlPFC, FEF, IPS, SPL",
+        "Hypothalamus, adrenal cortex, pituitary",
+        "LOC, V1, primary somatosensory cortex"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Empathy was divided into which three subcomponents?",
+      "options": [
+        "Emotional contagion, cognitive perspective taking, and pro-social action",
+        "Arousal, valence, and reinforcement",
+        "Encoding, storage, and retrieval",
+        "Selection, maintenance, and manipulation"
+      ],
+      "answerIndex": 0
+    }
+  ]
+}

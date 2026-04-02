@@ -1,0 +1,367 @@
+{
+  "title": "Neuroscience Cumulative Quiz A",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Which of the following best captures cognitive control as described in lecture?",
+      "options": [
+        "A set of reflexes that bypass planning",
+        "A set of processes that supports planning and flexible goal-directed behaviour",
+        "A memory store for facts and events",
+        "A sensory filter devoted only to visual attention"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In Shallice’s framework, contention scheduling is most closely associated with:",
+      "options": [
+        "Controlled processing in novel situations",
+        "Automatic activation of action scripts by stimuli",
+        "Emotional evaluation of errors",
+        "Long-term maintenance of task goals"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The supervisory attentional system is especially needed when a person is:",
+      "options": [
+        "Doing a well-practiced routine",
+        "Facing a novel situation that requires flexibility",
+        "Responding to a spinal reflex",
+        "Performing a purely sensory discrimination with no rule change"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A patient with frontal lobe damage can complete routine tasks but struggles in new situations, repeats actions, and shows environmental dependency. This pattern most strongly suggests impairment of the:",
+      "options": [
+        "Phonological loop",
+        "Supervisory attentional system",
+        "Somatosensory cortex",
+        "Hippocampal formation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of the following is NOT one of the five goal-directed behaviours emphasized in lecture?",
+      "options": [
+        "Sequencing",
+        "Task shifting",
+        "Consolidation",
+        "Inhibition"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Initiation refers to:",
+      "options": [
+        "Reflecting on whether a just-completed response was correct",
+        "The will to start a behaviour",
+        "Stopping a dominant response",
+        "Switching between rules after negative feedback"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Difficulty both starting actions and ceasing repetitive behaviours after frontal damage was referred to as:",
+      "options": [
+        "Prosopagnosia",
+        "Psychological inertia",
+        "Anterograde amnesia",
+        "Allesthesia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the apple-tree cost-benefit task discussed under initiation, participants decide whether to act after seeing cues for:",
+      "options": [
+        "Reward magnitude and required effort",
+        "Reward magnitude and delay discounting only",
+        "Emotional valence and arousal",
+        "Accuracy and response deadline"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In the Wisconsin Card Sorting Task, frontal patients often know the current sorting rule is wrong yet continue using it. This is best described as:",
+      "options": [
+        "Semantic intrusion",
+        "Perseveration",
+        "Retroactive interference",
+        "Habituation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to the lecture, memory is best described as:",
+      "options": [
+        "A single storage bin for all past experiences",
+        "A group of mechanisms by which experience changes brains and behaviour",
+        "A process limited to conscious recall",
+        "A synonym for attention"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which example most clearly reflects non-declarative memory?",
+      "options": [
+        "Remembering what you ate this morning",
+        "Knowing the capital of France",
+        "Riding a bicycle",
+        "Recalling where you spent last summer"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In Baddeley and Hitch’s multicomponent model, the component that mediates selection and manipulation of information is the:",
+      "options": [
+        "Phonological loop",
+        "Central executive",
+        "Hippocampus",
+        "Anterior cingulate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The multicomponent model argues that maintenance is:",
+      "options": [
+        "The same process as manipulation",
+        "Separate from manipulation",
+        "Possible only for verbal information",
+        "Impossible without the hippocampus"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pairing best matches the lecture’s storage formats in working memory?",
+      "options": [
+        "Visuospatial sketchpad for visual/spatial information; phonological loop for auditory/phonetic information",
+        "Phonological loop for spatial maps; visuospatial sketchpad for emotional states",
+        "Central executive for all storage; hippocampus for all manipulation",
+        "Amygdala for maintenance; dlPFC for rehearsal"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In an n-back task, increasing n primarily increases:",
+      "options": [
+        "Sensory acuity",
+        "Working memory demand",
+        "Long-term consolidation",
+        "Emotional salience"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "As n-back demand increases, activity increases in several top-down attention and cognitive control regions. Which option fits the lecture?",
+      "options": [
+        "dlPFC, FEF, IPS, SPL, mPFC",
+        "Amygdala, olfactory bulb, hypothalamus",
+        "Primary auditory cortex only",
+        "Medulla and spinal cord"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "TMS to which region impaired 3-back performance in the lecture example?",
+      "options": [
+        "Right dlPFC",
+        "Left dlPFC",
+        "Left amygdala",
+        "Posterior cingulate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A key issue in the maintenance/manipulation debate was that sustained activation during the delay period appeared strongest in:",
+      "options": [
+        "Sensory cortex alone",
+        "dlPFC and SPL",
+        "Amygdala and insula",
+        "Cerebellum and basal ganglia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The lecture organized emotions along which two broad dimensions?",
+      "options": [
+        "Valence and arousal",
+        "Accuracy and speed",
+        "Pleasure and memory",
+        "Dominance and handedness"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which philosopher was presented as arguing that reason is 'the slave of the passions'?",
+      "options": [
+        "Socrates",
+        "Blaise Pascal",
+        "David Hume",
+        "Stoic philosophers collectively"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which claim best matches the lecture’s definition of emotion?",
+      "options": [
+        "Emotion is purely bodily physiology with no cognitive role",
+        "Emotion is subjective, physiological, displayed behaviourally, interacts with cognition, and is social",
+        "Emotion is identical to logic",
+        "Emotion exists independently of culture and communication"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The original Papez circuit included all of the following EXCEPT:",
+      "options": [
+        "Hypothalamus",
+        "Hippocampus",
+        "Anterior thalamus",
+        "Olfactory bulb"
+      ],
+      "answerIndex": 3
+    },
+    {
+      "prompt": "The lecture emphasized that the limbic system is now thought to have developed more for managing:",
+      "options": [
+        "Language syntax",
+        "Stress responses",
+        "Voluntary motor sequencing",
+        "Visual depth perception"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the HPA axis, the hypothalamus first releases:",
+      "options": [
+        "ACTH",
+        "Cortisol",
+        "CRH",
+        "Dopamine"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "In the HPA axis, hormones released into the blood ultimately influence the release of:",
+      "options": [
+        "Cortisol and adrenaline",
+        "Melatonin and insulin",
+        "Acetylcholine and GABA",
+        "Oxytocin and vasopressin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "According to the lecture, the hypothalamus receives key threat-related input from the:",
+      "options": [
+        "Amygdala",
+        "Hippocampus",
+        "Primary visual cortex",
+        "Corpus callosum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "The amygdala was described as playing an important role in:",
+      "options": [
+        "Detecting emotional information and learning emotional significance or reward",
+        "Language comprehension and speech production",
+        "Myelination of frontal white matter",
+        "Declarative consolidation only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Neurulation refers to the:",
+      "options": [
+        "Formation of synapses after birth",
+        "Establishment of neural tissue as the neural plate becomes the neural tube",
+        "Migration of neurons along radial glia",
+        "Onset of myelination in the corpus callosum"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The neural tube will eventually form the:",
+      "options": [
+        "Amygdala and hippocampus only",
+        "Ventricles and spinal canal",
+        "Somatosensory cortex only",
+        "Peripheral nerves"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "At the neurulation stage, the embryo is referred to as a:",
+      "options": [
+        "Blastula",
+        "Neurula",
+        "Zygote",
+        "Gastrula"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Neurogenesis during development occurs prominently in the:",
+      "options": [
+        "Periventricular zone",
+        "Amygdala",
+        "Cingulate sulcus",
+        "Corpus callosum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "During migration, neurons travel along:",
+      "options": [
+        "Corticospinal axons",
+        "Radial glial cell bodies/branches",
+        "Blood vessels",
+        "The corpus callosum"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which statement about cortical migration is true?",
+      "options": [
+        "Earlier-born neurons settle furthest from the ventricles and youngest cells occupy deeper layers",
+        "Each wave of neurons migrates farther from the ventricles, so younger cells end up in more outer layers",
+        "Neurons migrate only after birth",
+        "Migration occurs independently of glial guidance"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Synaptogenesis in early development is characterized by a:",
+      "options": [
+        "Small reduction in synapses from the start",
+        "Massive roughly ten-fold increase in synapse number",
+        "Complete dependence on formal schooling",
+        "Process limited to the prefrontal cortex"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What happens to synapses over time according to the lecture?",
+      "options": [
+        "Unused synapses strengthen and active synapses are pruned",
+        "Active synapses thrive while inactive ones deteriorate and are pruned",
+        "All synapses are retained into adulthood",
+        "Pruning happens only after age 30"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The lecture emphasized that pruning occurs earliest in which type of region?",
+      "options": [
+        "Prefrontal cortex",
+        "Association cortex",
+        "Somatosensory cortex",
+        "Medial temporal lobe"
+      ],
+      "answerIndex": 2
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "title": "Neuroscience Cumulative Quiz B",
+  "shuffleQuestions": true,
+  "shuffleOptions": true,
+  "questions": [
+    {
+      "prompt": "Difficulty both starting actions and ceasing repetitive behaviours after frontal damage was referred to as:",
+      "options": [
+        "Prosopagnosia",
+        "Psychological inertia",
+        "Anterograde amnesia",
+        "Allesthesia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the apple-tree cost-benefit task discussed under initiation, participants decide whether to act after seeing cues for:",
+      "options": [
+        "Reward magnitude and required effort",
+        "Reward magnitude and delay discounting only",
+        "Emotional valence and arousal",
+        "Accuracy and response deadline"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In the Wisconsin Card Sorting Task, frontal patients often know the current sorting rule is wrong yet continue using it. This is best described as:",
+      "options": [
+        "Semantic intrusion",
+        "Perseveration",
+        "Retroactive interference",
+        "Habituation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A task in which the examiner switches the sorting rule from color to number to shape primarily measures:",
+      "options": [
+        "Self-monitoring",
+        "Task shifting",
+        "Initiation",
+        "Motor sequencing only"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In the flanker task, an indicator of self-monitoring is:",
+      "options": [
+        "Faster responses after errors",
+        "Post-error slowing",
+        "Reduced activity in salience regions after mistakes",
+        "An inability to represent conflict"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which pattern is most characteristic of incongruent flanker trials relative to congruent trials?",
+      "options": [
+        "They are faster and more accurate",
+        "They are slower and more error-prone",
+        "They eliminate the need for monitoring",
+        "They depend mainly on episodic memory"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Inhibition is best defined as the ability to:",
+      "options": [
+        "Store rules over long delays",
+        "Stop actions that would interfere with the goal",
+        "Generate more response options",
+        "Retrieve semantic knowledge under pressure"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "According to the lecture summary, monitoring relies especially on which regions/network?",
+      "options": [
+        "ACC and insula; salience network",
+        "Hippocampus and temporal pole; default mode network",
+        "Primary motor cortex; corticospinal tract",
+        "Amygdala and hypothalamus; HPA axis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which region/network pairing is most consistent with the lecture’s 'most valuable players' for cognitive control?",
+      "options": [
+        "dlPFC with fronto-parietal control functions",
+        "Olfactory bulb with salience detection",
+        "Cerebellum with episodic binding",
+        "Anterior thalamus with language production"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "As n-back demand increases, activity increases in several top-down attention and cognitive control regions. Which option fits the lecture?",
+      "options": [
+        "dlPFC, FEF, IPS, SPL, mPFC",
+        "Amygdala, olfactory bulb, hypothalamus",
+        "Primary auditory cortex only",
+        "Medulla and spinal cord"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "TMS to which region impaired 3-back performance in the lecture example?",
+      "options": [
+        "Right dlPFC",
+        "Left dlPFC",
+        "Left amygdala",
+        "Posterior cingulate"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A key issue in the maintenance/manipulation debate was that sustained activation during the delay period appeared strongest in:",
+      "options": [
+        "Sensory cortex alone",
+        "dlPFC and SPL",
+        "Amygdala and insula",
+        "Cerebellum and basal ganglia"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The Riggal and Postle account ultimately suggested that during the delay period, maintained content is represented in:",
+      "options": [
+        "Sensory regions such as LOC, while fronto-parietal regions control maintenance",
+        "The hippocampus exclusively",
+        "Broca’s area regardless of modality",
+        "Only subcortical nuclei"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Which statement best fits the activated long-term memory account discussed in lecture?",
+      "options": [
+        "Working memory can only store visual and auditory material",
+        "Any sensory modality can be actively maintained through executive influence on high-level sensory regions",
+        "Working memory and long-term memory are completely independent",
+        "The theory eliminates a role for distraction"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Patient H.M. was especially important because his case suggested that:",
+      "options": [
+        "Short-term memory depends entirely on hippocampus",
+        "Only non-declarative memory relies on hippocampus",
+        "Declarative memory depends on hippocampus, while short-term and non-declarative memory can remain intact",
+        "The hippocampus is irrelevant for memory"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "The lecture described the hippocampus as especially adept at:",
+      "options": [
+        "Generating motor plans",
+        "Binding together different sensory and conceptual features of ongoing events",
+        "Detecting reward prediction errors",
+        "Controlling the HPA axis"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Reconsolidation refers to the idea that once retrieved, a consolidated memory becomes briefly:",
+      "options": [
+        "Permanent and impossible to change",
+        "Unstable and malleable again",
+        "Converted into procedural memory",
+        "Independent of cortical networks"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Retrieval was described as relying in part on:",
+      "options": [
+        "The reinstatement of brain patterns present at encoding",
+        "A purely brainstem-driven process",
+        "Loss of overlap with mental simulation networks",
+        "Automatic activation of the HPA axis"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "In the HPA axis, hormones released into the blood ultimately influence the release of:",
+      "options": [
+        "Cortisol and adrenaline",
+        "Melatonin and insulin",
+        "Acetylcholine and GABA",
+        "Oxytocin and vasopressin"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "According to the lecture, the hypothalamus receives key threat-related input from the:",
+      "options": [
+        "Amygdala",
+        "Hippocampus",
+        "Primary visual cortex",
+        "Corpus callosum"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "The amygdala was described as playing an important role in:",
+      "options": [
+        "Detecting emotional information and learning emotional significance or reward",
+        "Language comprehension and speech production",
+        "Myelination of frontal white matter",
+        "Declarative consolidation only"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Damage to the amygdala would most likely lead to which pattern?",
+      "options": [
+        "Improved detection of angry faces in crowds",
+        "Judging unfamiliar faces as more trustworthy",
+        "Better fear conditioning",
+        "Enhanced attention to the eyes and mouth"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "In monkeys, extensive amygdala damage was associated with Kluver-Bucy syndrome, which includes:",
+      "options": [
+        "Selective verbal deficits only",
+        "Indiscriminate ingestion and inappropriate sexual behaviour",
+        "Loss of phoneme discrimination",
+        "Inability to form long-range functional connections"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "A neutral stimulus begins to elicit fear after repeated pairing with a noxious stimulus. This paradigm is called:",
+      "options": [
+        "Reconsolidation",
+        "Fear conditioning",
+        "Perceptual narrowing",
+        "Task shifting"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Theory of mind refers to the ability to:",
+      "options": [
+        "Suppress emotional responses to threat",
+        "Represent other people’s mental states as separate from one’s own",
+        "Maintain items over short delays",
+        "Encode episodic details into semantic memory"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which set of regions was highlighted as especially relevant to theory of mind?",
+      "options": [
+        "TPJ, temporal poles, superior temporal sulcus, mPFC",
+        "dlPFC, FEF, IPS, SPL",
+        "Hypothalamus, adrenal cortex, pituitary",
+        "LOC, V1, primary somatosensory cortex"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Empathy was divided into which three subcomponents?",
+      "options": [
+        "Emotional contagion, cognitive perspective taking, and pro-social action",
+        "Arousal, valence, and reinforcement",
+        "Encoding, storage, and retrieval",
+        "Selection, maintenance, and manipulation"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Synaptogenesis in early development is characterized by a:",
+      "options": [
+        "Small reduction in synapses from the start",
+        "Massive roughly ten-fold increase in synapse number",
+        "Complete dependence on formal schooling",
+        "Process limited to the prefrontal cortex"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "What happens to synapses over time according to the lecture?",
+      "options": [
+        "Unused synapses strengthen and active synapses are pruned",
+        "Active synapses thrive while inactive ones deteriorate and are pruned",
+        "All synapses are retained into adulthood",
+        "Pruning happens only after age 30"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "The lecture emphasized that pruning occurs earliest in which type of region?",
+      "options": [
+        "Prefrontal cortex",
+        "Association cortex",
+        "Somatosensory cortex",
+        "Medial temporal lobe"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "Which ordering best matches the developmental progression of pruning across regions?",
+      "options": [
+        "Prefrontal cortex → association cortices → somatosensory",
+        "Somatosensory → association cortices → prefrontal cortex",
+        "Association cortices → somatosensory → prefrontal cortex",
+        "All regions prune at the same time"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "At birth, the brain is relatively:",
+      "options": [
+        "Overmyelinated",
+        "Unmyelinated",
+        "Fully pruned",
+        "Independent of white matter changes"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which region was described as myelinating for a very long time, potentially into the 20s?",
+      "options": [
+        "Corpus callosum and PFC white matter",
+        "Primary visual cortex only in infancy",
+        "Amygdala gray matter",
+        "Olfactory bulb"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "prompt": "Experience-expectant systems are best described as neural systems that:",
+      "options": [
+        "Depend on idiosyncratic experiences and are unnecessary for typical development",
+        "Respond to nearly universal inputs needed for normal development",
+        "Develop completely without environmental input",
+        "Are limited to adult learning"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "prompt": "Which of the following is an example of experience-dependent plasticity from the lecture?",
+      "options": [
+        "Binocular vision",
+        "Basic language exposure",
+        "Musical training",
+        "Neural tube formation"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "prompt": "A sensitive period was described as a time when organisms are especially responsive to certain inputs. The lecture’s example was that second-language learning before about age 6 is associated with:",
+      "options": [
+        "Guaranteed bilingualism regardless of exposure",
+        "Language abilities comparable to native speakers",
+        "No later decline in performance with age of arrival",
+        "Purely procedural learning with no cortical involvement"
+      ],
+      "answerIndex": 1
+    }
+  ]
+}
